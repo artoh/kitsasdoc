@@ -1,0 +1,154 @@
+div.asennusinfo
+{
+   border: 1px solid #7e57c2;
+   width: 100%;
+   padding: 10px 10px 10px 10px;
+   margin: 2em auto auto auto;
+   box-shadow: 3px 3px 2px #d0d0d0;
+   text-align: center;
+
+}
+
+p.info
+{
+	text-align: center;
+	margin-top: 5em;
+	margin-bottom: 5em;	
+}
+
+p.intro
+{
+	font-size: 120%;
+}
+
+
+div.asennusinfo > h3
+{
+   color: #7e57c2;
+   font-weight: bold;
+   margin-top: 0px;
+
+}
+
+div.asennuslaatikko
+{
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 4px;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #7e57c2;
+    box-shadow: 3px 3px 2px #d0d0d0;
+    text-align: center;
+    background: #7e57c2;
+    color: white;
+}
+
+
+li.asennuslaatikko
+{
+    margin-left: 2px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 4px;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #7e57c2;
+    box-shadow: 3px 3px 2px #d0d0d0;
+    text-align: center;
+    background: #7e57c2;
+    color: white;
+
+
+}
+
+li.asennuslaatikko:hover, li.asennuslaatikko:active
+{
+    color: white;
+    text-decoration: none;
+}
+
+a.asennuslaatikko
+{
+    color: white;
+}
+
+a.asennuslaatikko:hover
+{
+    color: white;
+    font-weight: bold;
+}
+
+li.tukilaatikko
+{
+    margin-left: 2px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 4px;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #7e57c2;
+    box-shadow: 3px 3px 2px #d0d0d0;
+    text-align: center;
+    background: white;
+    color: #7e57c2;
+
+
+}
+
+li.tukilaatikko:hover, li.tukilaatikko:active
+{
+    color: #7e57c2;
+    text-decoration: none;
+}
+
+a.tukilaatikko
+{
+    color: #7e57c2;
+}
+
+a.tukilaatikko:hover
+{
+    color: #7e57c2;
+    font-weight: bold;
+}
+
+
+.ver
+{
+  border: 1px solid blue;
+  border-radius: 3px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  background-color: #7e57c2;
+  box-shadow: 3px 3px 2px #d0d0d0;
+  color: white;
+}
+
+/* Tooltip text */
+span.ver span.selite {
+    visibility: hidden;
+    font-size: 12pt;
+    width: 120px;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    box-shadow: 3px 3px 2px #d0d0d0;
+
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+.ver:hover .selite {
+    visibility: visible;
+}
+
+
+md-logo
+{	
+	
+}
