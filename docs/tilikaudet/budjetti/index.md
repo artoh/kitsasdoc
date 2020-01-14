@@ -1,4 +1,4 @@
-# Budjetti <span class=ver>1.1<span class=selite>Kitupiikin versiosta 1.1 lähtien</span></span>
+# Budjetti
 
 ## Budjetin laadinta
 
@@ -16,7 +16,7 @@ Budjetin toteutumista voit seurata **Budjettivertailu**-raportilla.
 
 ![](vertailuraportti.png)
 
-Jos haluat muuttaa budjettivertailun sarakkeita, valitse **Tuloslaskelma** tai **Toiminnanalat**-raporttiin tulostettavat sarakkeet:
+Jos haluat muuttaa budjettivertailun sarakkeita, valitse **Tuloslaskelma** -raporttiin tulostettavat sarakkeet:
 
 ![](raportti.png)
 

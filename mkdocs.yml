@@ -65,10 +65,12 @@ pages:
         - Tilinpäätöksen malli: 'maaritykset/tilinpaatos/index.md'
         - Monimuotoiset tilikartat : 'maaritykset/monimuoto/index.md'
   - Kirjaaminen:
-    - Kirjaaminen : 'kirjaus/index.md'
-    - Kirjausapuri: 'kirjaus/apuri/index.md'
-    - Käsin kirjaaminen: 'kirjaus/kasin/index.md'
-    - Tuonti: 'kirjaus/tuonti/index.md'
+    - Kirjaaminen : 'kirjaus/kirjaaminen/index.md'
+    - Menot ja tulot : 'kirjaus/menotulo/index.md'
+    - Siirtotosite : 'kirjaus/siirto/index.md'
+    - Tiliote : 'kirjaus/tiliote/index.md'
+    - Palkka : 'kirjaus/palkka/index.md'
+    - Muut tositteet: 'kirjaus/muu/index.md'
   - Selaaminen ja etsiminen: 'selaus/index.md'
   - Laskutus:
     - Laskutus: 'laskutus/index.md'
@@ -77,15 +79,21 @@ pages:
     - Ryhmälasku : 'laskutus/ryhma/index.md'
   - Tulosteet: 'tulosteet/index.md'
   - Arvonlisävero:
-    - Arvolisävero: 'alv/index.md'
+    - Arvolisävero: 'alv/alv/index.md'
     - Mallikirjaukset: 'alv/mallikirjaukset/index.md'
     - Alv-ilmoitus: 'alv/tilitys/index.md'
+    - Korjaaminen: 'alv/korjaaminen/index.md'
     - Maksuperusteinen alv: 'alv/maksuperusteinen/index.md'
-  - Tilikaudet ja tilinpäätös:
+  - Tilikaudet:
     - Tilikaudet : 'tilikaudet/tilikaudet/index.md'
-    - Tilinpäätös: 'tilikaudet/tilinpaatos/index.md'
     - Sähköinen arkisto: 'tilikaudet/arkisto/index.md'
     - Budjetti: 'tilikaudet/budjetti/index.md'
+  - Tilinpäätös:
+    - Aloittaminen: 'tilinpaatos/aloittaminen/index.md'
+    - Poistot: 'tilinpaatos/poistot/index.md'
+    - Jaksotukset: 'tilinpaatos/jaksotukset/index.md'
+    - Tulovero: 'tilinpaatos/tulovero/index.md'
+    - Tilinpäätösasiakirja: 'tilinpaatos/asiakirja/index.md'
   - Lisenssi: 'lisenssi.md'
 extra_css:
   - 'stylesheets/extra.css'

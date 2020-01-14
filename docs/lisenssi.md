@@ -1,8 +1,16 @@
 # Lisenssi
 
-<strong>Kitupiikki Copyright &copy; Arto Hyvättinen 2017 - 2018
+Kitupiikki Copyright &copy; Arto Hyvättinen 2017 - 2019 <br/>
+Kitsas Copyright &copy; Arto Hyvättinen ja Kitsas Oy 2019 - 2020
 
-Ohjelmalla ei ole mitään takuuta. Tätä ohjelmaa saa käyttää, levittää ja muokata maksuttomasti alempana olevien ehtojen (GNU General Public License version 3) mukaisesti.</strong>
+<strong>Ohjelmalla ei ole mitään takuuta. Tätä ohjelmaa saa käyttää, levittää ja muokata maksuttomasti alempana olevien ehtojen (GNU General Public License version 3) mukaisesti.</strong>
+
+GPL-lisenssin lisäehtojen mukaisesti edellytetään, että
+
+- jaettaessa tätä ohjelmistoa muutettuna on selkeästi oltava näkyvillä, että kyse on muokatusta ohjelmasta
+- esitettävä selkeästi, että Kitsas Oy ei tarjoa minkäänlaista tukea muokatulle ohjelmistolle
+- vältettävä käyttämästä Kitsas Oy:n nimeä muokatun ohjelmiston yhteydessä
+
 
 ## Käytettyjä kirjastoja
 

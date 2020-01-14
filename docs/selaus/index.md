@@ -6,8 +6,11 @@
 
 ![](tositteet.png)
 
-**Tositteet**-napilla valitset tositteiden selaamisen. Rajaa selattavien tositteiden
-aikaväli ja halutessasi tositetyyppi.
+- **Tositteet** -välilehdellä näet kirjanpitoon tallennetut tositteet
+- **Saapuneet** -välilehdellä ovat Saapuneiden kansio -toiminnalla lisätyt tositteet
+- **Luonnokset** -välilehdellä ovat luonnoksina tallennetut tositteet
+
+Rajaa selattavien tositteiden aikaväli ja halutessasi tositetyyppi.
 
 **Etsi**-valinta suodattaa näytöllä olevista tositteista ne, joiden otsikossa on etsittävä teksti.
 
@@ -17,7 +20,7 @@ Napsauttamalla riviä pääset katsomaan tai muokkaamaan valittua tositetta.
 
 ![](viennit.png)
 
-**Viennit**-napilla valitset vientien eli tositteella olevien rivien selaamisen.
+**Viennit**-välilehdellä näet vientien eli tositteella olevien rivien selaamisen.
 Rajaa selattavien vientien aikaväli. Voit selata yksittäisen tilin tapahtumia
 valitsemalla **Kaikki tilit**-valinnan tilalle haluamasi tilin.
 
@@ -31,7 +34,7 @@ kirjattu.
 
 ## Porautuminen aloitusnäytöltä
 
-![](alkuruutu.png)
+-- tähän uusi kuvakaappaus --
 
 Aloitusruudun saldoluettelon tilinnumerot ovat linkkejä, joita napsauttamalla näet luettelon kyseiselle tilille kirjatuista vienneistä.
 
