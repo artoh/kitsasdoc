@@ -52,9 +52,15 @@ Voit myös tehdä tositteen, jossa on liite ja mahdollisesti kommentteja ilman y
 
 Jos olet valinnut numeroinnin useampaan tositesarjaan, voit valita tositesarjan tunnuksen.
 
-!!! note "Tositenumerointi"
-    Tositteet numeroidaan vasta, kun ne tallennetaan valmiina kirjanpitoon. Tallennuksen jälkeen Kitsas näyttää tallennetun tositteet tunnuksen. Jos säilytät tositteet paperisina, merkitse ohjelman ilmoittama tunnus tositteeseen.
-    ![](tositetunnus.png)
+Tositteet numeroidaan vasta, kun ne tallennetaan valmiina kirjanpitoon. Tallennuksen jälkeen Kitsas näyttää tallennetun tositteet tunnuksen. Jos säilytät tositteet paperisina, merkitse ohjelman ilmoittama tunnus tositteeseen.
+
+![](tositetunnus.png)
+
+Yllä olevassa tositetunnisteessa **OL 1 / 18**
+
+- **OL** on tositesarja (Ostolaskut)
+- **1** on tositteen numero sarjassaan
+- **18** on tilikauden tunnus (vuosi 2018)
 
 
 ## Lisää toimintoja
