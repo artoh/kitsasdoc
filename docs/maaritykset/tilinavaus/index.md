@@ -18,24 +18,26 @@ Samalla näytöllä syötetään myös **henkilöstön keskimäärä** edellisen
 !!! tip "Tilinavaus ei ole valmis?"
     Voit aloittaa kirjaamisen, vaikka edellisen tilikauden tilinpäätös ei olisi valmis eikä tilinavausta olisi tehty. Taseesta tehtävät tulosteet ovat kuitenkin virheellisiä kunnes tilinavaus on tehty.
 
-## Kohdennukset ja tase-erät
+## Tase-erät ja kohdennukset
 
-Jos tilinavauksessa on tarpeen tehdä erittelyä eri kohdennuksille tai tase-erille, muokkaa tilinavaustositetta. Tilinavaustosite aukeaa **Näytä tosite** -painikkeesta.
+Tileillä, joilla on käytössä tase-erittely, näkyy **Erittely**-sarakkeessa eräsymboli. Kohdennuksia käytettäessä näkyy tulo- ja menotilien erittely-sarakkeessa kohdennussymboli.
 
-* Voit jakaa tilinavauksen eri kohdennuksille, jolloin kustannuspaikkakohtaisille raporteille voidaan tulostaa oikein vertailutiedot edelliseltä tilikaudelta.
-* Voit merkitä seurattavat tase-erät (ostovelat, myyntisaamiset, poistettava omaisuus) jolloin ne tulostuvat oikein tase-erittelylle
-* Ellei tällaisia muokkauksia ole tarpeen tehdä, älä muokkaa tilinavaustositetta.
+Valitsemalla erittelysarakkeen pääset syöttämään tilin saldon valmiiksi eriteltynä.
 
-![](avaustosite.png)
+![](siirtosaamiset.png)
 
-!!! note "Tilinavaussivu nollaa tilinavaustositteen"
-    Älä muokkaa Määritysten Tilinavaus-sivua enää sen jälkeen kun olet muokannut suoraan tilinavaustositetta
+Syöttämällä siirtosaamiset ja myyntisaamiset eriteltynä pääset kirjanpidossa merkitsemään näiden erien maksun normaaliin tapaan, ja erät ovat mukana kirjanpidon tase-erittelyllä.
+
+![](kohdennukset.png)
+
+Syöttämällä tulot ja menot kohdennettuina saat kustannuspaikkojen tuloslaskelmalle vertailutiedot edelliseltä vuodelta.
+
 
 ## Kirjanpidon aloittaminen kesken tilikauden
 
-Jos aloitat kirjanpidon Kitupiikissä kesken tilikauden, syötä Tilinavaus-toiminnolla edellisen tilikauden loppusummat ja muodosta tavallinen tosite (**Uusi tosite**), jolla kirjaat jokaiselle käytössä olevalle tilille ennen Kitupiikin käyttöönottoa kirjatut kokonaissummat (debet-summa ja kredit-summa)
+Jos aloitat kirjanpidon Kitsaalla kesken tilikauden, syötä Tilinavaus-toiminnolla edellisen tilikauden loppusummat ja muodosta muistiotosite (**Uusi tosite**), jolla kirjaat jokaiselle käytössä olevalle tilille ennen Kitsaan käyttöönottoa kirjatut kokonaissummat (debet-summa ja kredit-summa)
 
 Jos olet arvonlisäverovelvollinen, on kirjanpito helpointa aloittaa verokauden vaihtuessa. Kirjaa maksuun menevä arvonlisäverovelka Verovelat-tilille niin, että uuden verokauden alkaessa alv-velassa ja alv-saatavissa ei ole avointa saldoa.
 
 !!! example "Esimerkki"
-    Tilikautena on vuosi, ja yritys siirtyy 1.6.2018 toisesta kirjanpito-ohjelmasta käyttämään Kitupiikkiä. Tilinavaukseen kirjataan tilien päättävät saldot 31.12.2017. Lisäksi luodaan tosite päivämäärälle 31.5.2018, johon kirjataan jokaiselle tilille erikseen debet- ja kredit-summa niistä kirjauksista, jotka on tehty aiemmalla kirjanpito-ohjelmalla 1.1.–31.5.2018.
+    Tilikautena on vuosi, ja yritys siirtyy 1.6.2018 toisesta kirjanpito-ohjelmasta käyttämään Kitsasta. Tilinavaukseen kirjataan tilien päättävät saldot 31.12.2017. Lisäksi luodaan tosite päivämäärälle 31.5.2018, johon kirjataan jokaiselle tilille erikseen debet- ja kredit-summa niistä kirjauksista, jotka on tehty aiemmalla kirjanpito-ohjelmalla 1.1.–31.5.2018.

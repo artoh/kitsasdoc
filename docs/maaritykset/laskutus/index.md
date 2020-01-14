@@ -2,20 +2,16 @@
 
 Määrittelee uusien laskujen oletusvalinnat
 
-* **Tositelaji**, johon laskut kirjataan kirjanpidossa (yleensä Myyntilaskut)
-* **Kirjausperuste**, jolla lasku kirjataan kirjanpitoon <ul>
-  <li>**Suoriteperusteinen**: kirjataan toimituspäivänä</li>
-  <li>**Laskuperusteinen**: kirjataan laskutuspäivänä</li>
-  <li>**Maksuperusteinen**: kirjataan, kun lasku maksettu</li>
-  <li>**Käteiskuitti**: maksetaan käteisellä tavaraa luovutettaessa</li></ul>
 * **Saatavatili**: tili, jolle lasku kirjataan suorite- tai maksuperusteisesti (yleensä Myyntisaamiset)
 * **Käteistili**: tili, jos maksu kirjataan käteislaskuna (yleensä Käteisvarat)
+* **Maksumuistutustili**: tili, jolle kirjataan maksumuistutusten muistutusmaksut
+* **Viivästyskorkotili**: tili, jolle kirjataan maksumuistutusten viivästyskorot
 * **Maksuaika** eräpäivän määrittelemiseen
-* Laskulle tulostettava **huomautusaika** ja **viivästyskorko**
-* **Seuraava viitenumero**. Jos olet laskuttanut saman tilivuoden aikana toisella ohjelmalla, valitse varmasti vapaaksi jäävä numeroalue. Kitupiikki huolehtii itse viimeisen numeron (tarkastusnumero) laskemisesta. Viitenumero toimii myös laskun numerona.
+* Laskulle tulostettava **huomautusaika**
+* **Peruskorko**, jonka perusteella viivästyskorko määritellään. [Suomen Pankki](https://www.suomenpankki.fi/fi/Tilastot/korot/kuviot/korot_kuviot/viitekorko_chrt_fi/) julkaisee koron puolen vuoden jaksoille.
+* **Ensimmäisen laskun numero** on numero, josta laskujen numerointi aloitetaan
 
-Voidaksesi valita **laskuille tulostuvan pankkitilin numeron**, pitää IBAN-tilinumero olla syötettynä
-[tilin tiedoissa](/maaritykset/tilikartta).
+Voidaksesi valita **laskuille tulostuvien pankkitilin numerot**, pitää IBAN-tilinumero olla syötettynä [tilin tiedoissa](/maaritykset/tilikartta).
 
 Valitse myös, tulostetaanko pankkisiirtolomakkeeseen **pankkiviivakoodi** sekä vastaavat tiedot sisältävä **QR-koodi**.
 

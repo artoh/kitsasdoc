@@ -1,9 +1,9 @@
 site_name: 'Kitsaan ohjeet'
-site_description: 'Ilmainen kirjanpito-ohjelma'
+site_description: 'Ystävällinen kirjanpitäjä'
 site_author: 'Arto Hyvättinen'
-site_url: 'https://kitupiikki.info'
+site_url: 'https://ohjeet.kitsas.fi'
 
-copyright: 'Copyright &copy; 2017-2019 Arto Hyvättinen'
+copyright: 'Copyright &copy; 2017-2020 Arto Hyvättinen ja Kitsas Oy'
 theme:
   name: null
   custom_dir: material
@@ -39,7 +39,7 @@ markdown_extensions:
   - toc:
         permalink: true
 pages:
-  - Kitupiikki: 'index.md'
+  - Kitsas: 'index.md'
   - Esittely:
     - Ominaisuudet: 'esittely.md'
     - Videot: 'videot.md'
@@ -48,18 +48,18 @@ pages:
     - Uutta kohti: 'v2/index.md'
   - Kirjanpidosta lyhyesti: 'kirjanpito/index.md'
   - Asennus: 'asennus.md'
-  - Kirjanpidon aloittaminen: 'aloitus/index.md'
-  - Määritykset:
+  - Aloittaminen: 
+    - Uusi kirjanpito : 'aloitus/uusi/index.md'
+    - Siirtäminen Kitupiikistä: 'aloitus/kitupiikki/index.md'
+  - Asetukset:
     - Perusvalinnat: 'maaritykset/perusvalinnat/index.md'
-    - Tilikartta: 'maaritykset/tilikartta/index.md'
-    - Tositelajit: 'maaritykset/tositelajit/index.md'
+    - Tililuettelo: 'maaritykset/tilikartta/index.md'
     - Kohdennukset: 'maaritykset/kohdennukset/index.md'
     - Tilinavaus : 'maaritykset/tilinavaus/index.md'
     - Laskutus: 'maaritykset/laskutus/index.md'
+    - Maksutavat: 'maaritykset/maksutavat/index.md'
+    - Tositesarjat: 'maaritykset/tositesarjat/index.md'
     - Sähköpostin lähettäminen: 'maaritykset/sahkoposti/index.md'
-    - Verkkolasku: 'maaritykset/verkkolasku/index.md'
-    - Tuonti : 'maaritykset/tuonti/index.md'
-    - Kirjattavien kansio : 'maaritykset/inbox/index.md'
     - Mukauttaminen:
         - Raportit: 'maaritykset/raportit/index.md'
         - Tilinpäätöksen malli: 'maaritykset/tilinpaatos/index.md'
