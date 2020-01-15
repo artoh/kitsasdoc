@@ -20,7 +20,7 @@ theme:
   extra_templates:
     '404.html'
 extra:
-  disqus: 'Kitupiikki'
+  disqus: 'kitsaan-ohjeet'
   social:
     - type: 'github'
       link: 'https://github.com/artoh/kitupiikki'
