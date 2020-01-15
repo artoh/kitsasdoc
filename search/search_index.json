@@ -57,13 +57,28 @@
         },
         {
             "location": "/pilvi/",
-            "text": "Kitsaan pilvi\n\u00b6\n\n\nKitsaaseen on tulossa maksullinen (mutta halpa) mahdollisuus tallentaa kirjanpito pilveen suomalaiselle palvelimelle.",
+            "text": "Kitsaan pilvi\n\u00b6\n\n\n\n\nPilvi avautuu pian...\n\n\nKitsaan pilvi avautuu yleiseen k\u00e4ytt\u00f6\u00f6n n\u00e4ill\u00e4 n\u00e4kymin maaliskuussa 2020\n\n\n\n\nKitsas Oy tarjoaa ohjelmaan liittyvi\u00e4 pilvipalveluita. Palveluista ja hinnotteluista l\u00f6ytyy tietoa sivulta \nkitsas.fi\n. Rekister\u00f6ityiminen on maksutonta.\n\n\nOhjelmaa voi k\u00e4ytt\u00e4\u00e4 maksuttomasti omalla koneella my\u00f6s ilman rekister\u00f6itymist\u00e4.\n\n\nRekister\u00f6ityminen\n\u00b6\n\n\n\n\nKirjoita s\u00e4hk\u00f6postiosoitteesi aloitussivun \nPilvi\n-v\u00e4lilehdelle ja paina \nLuo k\u00e4ytt\u00e4j\u00e4tunnus\n. Saat s\u00e4hk\u00f6postiisi linkin, jonka avulla voit viimeistell\u00e4 rekister\u00f6itymisesi.\n\n\nKirjautuminen\n\u00b6\n\n\nKirjaudu \nPilvi\n-v\u00e4lilehdell\u00e4 sy\u00f6tt\u00e4m\u00e4ll\u00e4 s\u00e4hk\u00f6postiosoitteesi ja salasanasi.\n\n\n\n\nKirjauduttuasi saat luettelon pilvess\u00e4 olevista kirjanpidoista, joihin sinulla on k\u00e4ytt\u00f6oikeus. Pilvess\u00e4 olevia kirjanpitoja voi useampi k\u00e4ytt\u00e4j\u00e4 k\u00e4sitell\u00e4 samanaikaisesti.\n\n\n\n\n\n\n\n\nKuvake\n\n\nK\u00e4ytt\u00f6oikeudet\n\n\n\n\n\n\n\n\n\n\n\n\nLukuoikeus\n Oikeus lukea kirjanpito\n\n\n\n\n\n\n\n\nLuonnos\n Lukemisen lis\u00e4ksi saat tallentaa tositteita Luonnos-tilaan\n\n\n\n\n\n\n\n\nMuokkaus\n Lukemisen lis\u00e4ksi tositteiden ja laskujen tallentaminen ja muokkaus\n\n\n\n\n\n\n\n\nHallinta\n Edellisten lis\u00e4ksi oikeus asetusten muokkaamiseen sek\u00e4 alv-tilityksen ja tilinp\u00e4\u00e4t\u00f6ksen tekemiseen sek\u00e4 oikeuksien my\u00f6nt\u00e4miseen toisille k\u00e4ytt\u00e4jille\n\n\n\n\n\n\n\n\nOmistaja\n Edellisten lis\u00e4ksi oikeus tilausten hallintaan\n\n\n\n\n\n\n\n\nTilaukseni\n-painikkeell\u00e4 voit ottaa k\u00e4ytt\u00f6\u00f6n maksullisen tilauksen, johon sis\u00e4ltyy pilvitallennustilaa sek\u00e4 tukipalveluita.\n\n\nKirjanpidon jakaminen\n\u00b6\n\n\nVoit antaa toisille k\u00e4ytt\u00e4jille oikeuden kirjanpitoon, jonka omistaja olet.",
             "title": "Kitsaan pilvi"
         },
         {
             "location": "/pilvi/#kitsaan-pilvi",
-            "text": "Kitsaaseen on tulossa maksullinen (mutta halpa) mahdollisuus tallentaa kirjanpito pilveen suomalaiselle palvelimelle.",
+            "text": "Pilvi avautuu pian...  Kitsaan pilvi avautuu yleiseen k\u00e4ytt\u00f6\u00f6n n\u00e4ill\u00e4 n\u00e4kymin maaliskuussa 2020   Kitsas Oy tarjoaa ohjelmaan liittyvi\u00e4 pilvipalveluita. Palveluista ja hinnotteluista l\u00f6ytyy tietoa sivulta  kitsas.fi . Rekister\u00f6ityiminen on maksutonta.  Ohjelmaa voi k\u00e4ytt\u00e4\u00e4 maksuttomasti omalla koneella my\u00f6s ilman rekister\u00f6itymist\u00e4.",
             "title": "Kitsaan pilvi"
+        },
+        {
+            "location": "/pilvi/#rekisteroityminen",
+            "text": "Kirjoita s\u00e4hk\u00f6postiosoitteesi aloitussivun  Pilvi -v\u00e4lilehdelle ja paina  Luo k\u00e4ytt\u00e4j\u00e4tunnus . Saat s\u00e4hk\u00f6postiisi linkin, jonka avulla voit viimeistell\u00e4 rekister\u00f6itymisesi.",
+            "title": "Rekister\u00f6ityminen"
+        },
+        {
+            "location": "/pilvi/#kirjautuminen",
+            "text": "Kirjaudu  Pilvi -v\u00e4lilehdell\u00e4 sy\u00f6tt\u00e4m\u00e4ll\u00e4 s\u00e4hk\u00f6postiosoitteesi ja salasanasi.   Kirjauduttuasi saat luettelon pilvess\u00e4 olevista kirjanpidoista, joihin sinulla on k\u00e4ytt\u00f6oikeus. Pilvess\u00e4 olevia kirjanpitoja voi useampi k\u00e4ytt\u00e4j\u00e4 k\u00e4sitell\u00e4 samanaikaisesti.     Kuvake  K\u00e4ytt\u00f6oikeudet       Lukuoikeus  Oikeus lukea kirjanpito     Luonnos  Lukemisen lis\u00e4ksi saat tallentaa tositteita Luonnos-tilaan     Muokkaus  Lukemisen lis\u00e4ksi tositteiden ja laskujen tallentaminen ja muokkaus     Hallinta  Edellisten lis\u00e4ksi oikeus asetusten muokkaamiseen sek\u00e4 alv-tilityksen ja tilinp\u00e4\u00e4t\u00f6ksen tekemiseen sek\u00e4 oikeuksien my\u00f6nt\u00e4miseen toisille k\u00e4ytt\u00e4jille     Omistaja  Edellisten lis\u00e4ksi oikeus tilausten hallintaan     Tilaukseni -painikkeell\u00e4 voit ottaa k\u00e4ytt\u00f6\u00f6n maksullisen tilauksen, johon sis\u00e4ltyy pilvitallennustilaa sek\u00e4 tukipalveluita.",
+            "title": "Kirjautuminen"
+        },
+        {
+            "location": "/pilvi/#kirjanpidon-jakaminen",
+            "text": "Voit antaa toisille k\u00e4ytt\u00e4jille oikeuden kirjanpitoon, jonka omistaja olet.",
+            "title": "Kirjanpidon jakaminen"
         },
         {
             "location": "/aloitus/uusi/",
