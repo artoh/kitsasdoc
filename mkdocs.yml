@@ -10,9 +10,9 @@ theme:
   palette:
     primary: 'deep purple'
     accent: 'deep purple'
-  logo: 'images/Possu64.png'
+  logo: 'img/Possu64.png'
   language: 'fi'
-  favicon: 'images/Possu64.png'
+  favicon: 'img/Possu64.png'
   font: 'Roboto'
   mono: 'Ubuntu Mono'
   feature:
@@ -40,17 +40,48 @@ markdown_extensions:
         permalink: true
 pages:
   - Kitsas: 'index.md'
-  - Esittely:
-    - Ominaisuudet: 'esittely.md'
-    - Videot: 'videot.md'
-    - Käyttöliittymä: 'ui.md'
-    - Tuki: 'tuki.md'
-    - Uutta kohti: 'v2/index.md'
   - Kirjanpidosta lyhyesti: 'kirjanpito/index.md'
-  - Asennus: 'asennus.md'
   - Aloittaminen: 
+    - Kitsaan pilvi: 'pilvi/index.md'
     - Uusi kirjanpito : 'aloitus/uusi/index.md'
     - Siirtäminen Kitupiikistä: 'aloitus/kitupiikki/index.md'
+    - Ohjevideot : 'videot.md'
+    - Pikanäppäimet : 'pika.md'
+  - Kirjaaminen:
+    - Kirjaaminen : 'kirjaus/index.md'
+    - Menot ja tulot : 'kirjaus/menotulo/index.md'
+    - Siirtotosite : 'kirjaus/siirto/index.md'
+    - Tiliote : 'kirjaus/tiliote/index.md'
+    - Palkka : 'kirjaus/palkka/index.md'
+    - Muut tositteet: 'kirjaus/muu/index.md'
+  - Selaaminen ja etsiminen: 'selaus/index.md'
+  - Laskutus:
+    - Myynnit: 'laskutus/myynnit/index.md'
+    - Uusi lasku: 'laskutus/uusi/index.md'
+    - Ennakkolasku: 'laskutus/ennakko/index.md'
+    - Hyvityslasku: 'laskutus/hyvitys/index.md'
+    - Maksumuistutukset: 'laskutus/muistutus/index.md'
+    - Ryhmälasku : 'laskutus/ryhma/index.md'    
+    - Ostot: 'laskutus/ostot/index.md'
+    - Rekisteri: 'laskutus/rekisteri/index.md'
+    - Tuotteet: 'laskutus/tuotteet/index.md'
+  - Raportit: 'tulosteet/index.md'
+  - Arvonlisävero:
+    - Arvolisävero: 'alv/index.md'
+    - Mallikirjaukset: 'alv/mallikirjaukset/index.md'
+    - Alv-ilmoitus: 'alv/tilitys/index.md'
+    - Korjaaminen: 'alv/korjaaminen/index.md'
+    - Maksuperusteinen alv: 'alv/maksuperusteinen/index.md'
+  - Tilikaudet ja tilinpäätös:
+    - Tilikaudet : 'tilikaudet/index.md'
+    - Sähköinen arkisto: 'tilikaudet/arkisto/index.md'
+    - Budjetti: 'tilikaudet/budjetti/index.md'
+    - Tilinpäätös:
+        - Aloittaminen: 'tilinpaatos/aloittaminen/index.md'
+        - Poistot: 'tilinpaatos/poistot/index.md'
+        - Jaksotukset: 'tilinpaatos/jaksotukset/index.md'
+        - Tulovero: 'tilinpaatos/tulovero/index.md'
+        - Tilinpäätösasiakirja: 'tilinpaatos/asiakirja/index.md'
   - Asetukset:
     - Perusvalinnat: 'maaritykset/perusvalinnat/index.md'
     - Tililuettelo: 'maaritykset/tilikartta/index.md'
@@ -60,40 +91,10 @@ pages:
     - Maksutavat: 'maaritykset/maksutavat/index.md'
     - Tositesarjat: 'maaritykset/tositesarjat/index.md'
     - Sähköpostin lähettäminen: 'maaritykset/sahkoposti/index.md'
-    - Mukauttaminen:
-        - Raportit: 'maaritykset/raportit/index.md'
-        - Tilinpäätöksen malli: 'maaritykset/tilinpaatos/index.md'
-        - Monimuotoiset tilikartat : 'maaritykset/monimuoto/index.md'
-  - Kirjaaminen:
-    - Kirjaaminen : 'kirjaus/kirjaaminen/index.md'
-    - Menot ja tulot : 'kirjaus/menotulo/index.md'
-    - Siirtotosite : 'kirjaus/siirto/index.md'
-    - Tiliote : 'kirjaus/tiliote/index.md'
-    - Palkka : 'kirjaus/palkka/index.md'
-    - Muut tositteet: 'kirjaus/muu/index.md'
-  - Selaaminen ja etsiminen: 'selaus/index.md'
-  - Laskutus:
-    - Laskutus: 'laskutus/index.md'
-    - Uusi lasku: 'laskutus/uusi/index.md'
-    - Maksumuistutukset: 'laskutus/muistutus/index.md'
-    - Ryhmälasku : 'laskutus/ryhma/index.md'
-  - Tulosteet: 'tulosteet/index.md'
-  - Arvonlisävero:
-    - Arvolisävero: 'alv/alv/index.md'
-    - Mallikirjaukset: 'alv/mallikirjaukset/index.md'
-    - Alv-ilmoitus: 'alv/tilitys/index.md'
-    - Korjaaminen: 'alv/korjaaminen/index.md'
-    - Maksuperusteinen alv: 'alv/maksuperusteinen/index.md'
-  - Tilikaudet:
-    - Tilikaudet : 'tilikaudet/tilikaudet/index.md'
-    - Sähköinen arkisto: 'tilikaudet/arkisto/index.md'
-    - Budjetti: 'tilikaudet/budjetti/index.md'
-  - Tilinpäätös:
-    - Aloittaminen: 'tilinpaatos/aloittaminen/index.md'
-    - Poistot: 'tilinpaatos/poistot/index.md'
-    - Jaksotukset: 'tilinpaatos/jaksotukset/index.md'
-    - Tulovero: 'tilinpaatos/tulovero/index.md'
-    - Tilinpäätösasiakirja: 'tilinpaatos/asiakirja/index.md'
+    - Raportit: 'maaritykset/raportit/index.md'
+    - Tilinpäätöksen malli: 'maaritykset/tilinpaatos/index.md'        
+    - Tilikartan päivitys: 'maaritykset/paivitys/index.md'
+  - Tuki: 'tuki.md'
   - Lisenssi: 'lisenssi.md'
 extra_css:
   - 'stylesheets/extra.css'

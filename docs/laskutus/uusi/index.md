@@ -2,38 +2,24 @@
 
 ![](uusi.png)
 
-Kitupiikki pyrkii täydentämään laskun saajan nimen ja osoitetiedot vanhojen laskujen perusteella.
+Muokataksesi asiakkaasta tallennettuja yhteystietoja valitse asiakkaan nimen oikealla puolella oleva kuvake. Jos haluat kirjoittaa yksittäisen laskun lisäämättä asiakasta asiakasrekisteriin, tai jos haluat lähettää yksittäisen laskun toiseen osoitteeseen, muokkaa suoraan kohtia **Nimi ja osoite** tai **Sähköposti**
 
-Valitse laskun **kirjausperuste** sen mukaan, mille päivämäärälle lasku kirjataan kirjanpitoon, katso [kirjaamisperusteet](/kirjanpito/#kirjaamisperusteet). **Maksuperusteinen lasku** näkyy kirjanpidossa vasta, kun se on maksettu. **Käteiskuitti** laaditaan välittömästi käteisellä maksettaessa, jolloin tuloste toimii myös kuittina.
+**Laskutus** kentän vierestä valitaan **kieli**, **laskun toimitustapa** sekä **kirjausperuste**.
 
-Syötä laskutettavat tuotteet **Rivit**-välilehdelle. Samalla valitset, miten myyntilasku kohdennetaan kirjanpidossa. **Arvonlisävero** kirjataan valinnan mukaisena nettokirjauksena.
+Laskulle tehdään kirjanpidossa jaksotus toimituspäivämäärän tai toimitusaikavälin mukaan. Jos valitset **Suoriteperusteisen laskun**, kirjataan lasku toimituspäivälle. **Otsikko** tulostuu laskulle sekä toimii kirjanpidossa tositteen otsikkona.
 
-**Tuotteet**-napilla avautuu tuoteluettelo. Kun olet syöttänyt riveille tuotteen, paina rivin päällä hiiren oikeaa nappia ja pääset valitsemaan **Lisää tuoteluetteloon**. Tuotteesta tallennetaan nimi, yksikkö, yksikköhinta, verotus, tili ja kohdennus. Luettelossa olevan tuotteen lisäät laskulle napsauttamalla sitä tuoteluettelossa. Tuotteen voi poistaa valitsemalla tuoteluettelossa tuotteen nimen päällä hiiren oikealla napilla avautuvasta valikosta **Poista tuoteluettelosta** tai tuotteen tiedot voi päivittää valitsemalla tuotteen rivin päällä hiiren oikealla napilla avautuvasta valikosta **Päivitä tuoteluetteloon**.
+Voit lisätä tuoterekisterin tuotteita napsauttamalla tuoteluettelon riviä. Voit myös syöttää laskun rivitiedot suoraan ruudukkoon. Jos syötät luvun **yhteensä**-sarakkeeseen, laskee ohjelma nettoyksikköhinnan.
 
-**Lisätiedot**-välilehdelle syötetty teksti tulostuu laskulle.
+**Lisätiedot**-välilehdelle syötetty teksti tulostuu laskulle. **Saate**-välilehden teksti on saatteena sähköpostilla lähetettävälle laskulle.
 
-Valmiin laskun voit **tulostaa**, voit avata pdf-tiedoston esikatseltavaksi **näytä**-valinnalla tai lähettää laskun suoraan **sähköpostilla**. **Tallenna**-valinnalla lasku tallentuu kirjanpitoon ja ikkuna sulkeutuu.
+* **Tallenna luonnoksena** tallentaa laskun keskeneräisenä. Voit palata muokkaamaan sitä myyntiluettelon *Luonnokset*-välilehdeltä
+* **Tallenna valmiina** tallentaa laskun *Lähtevät*-välilehdelle. Laskua ei vielä lähetetä eikä viedä kirjanpitoon.
+* **Näytä** avaa laskun esikatseluun. Huomaa, ettei uudella laskulla ole vielä viite- eikä laskunumeroita.
+* **Tallenna ja tulosta** tulostaa laskun ja tallentaa sen kirjanpitoon. Toimitustavasta riippuen tässä voi olla myös *Tallenna ja lähetä* tms.
 
-!!! warning "Muista tallettaa lasku"
-    Pelkkä laskun esikatselu tai tulostaminen ei tallenna laskua kirjanpitoon. Muista aina tallentaa lasku - näin estät myös päällekkäiset viitenumerot eri laskuilla!
+!!! note "Laskujen numerointi"
+    Lasku saa laskunumeron vasta toimitusvaiheessa. Näin varmistetaan, että laskujen numerot muodostavat yhtenäisen juoksevan sarjan ilman päällekkäisyyksiä, vaikka useampi lasku olisi muokattavana samaan aikaan.
 
-![](lasku.png)
+## Mallilasku
 
-## Verkkolasku
-
-![](verkkolasku.png)
-
-Kun verkkolasku on [määritelty käyttöön](/maaritykset/verkkolasku) ja asiakkaalle on syötetty Y-tunnus, voidaan Verkkolasku-välilehdelle syöttää asiakkaan verkkolaskuosoite ja välittäjätunnus. Painamalla **Verkkolasku**-painiketta Kitupiikki muodostaa verkkolaskutiedoston.
-
-!!! note "Verkkolaskun lähettäminen"
-    Kitupiikki muodostaa Finvoice-verkkolaskuaineiston, mutta ei toimita sitä verkkolaskuvälittäjälle. Aineisto pitää toimittaa itse tai käyttää siihen operaattorin ohjelmaa.
-
-## Hyvityslasku
-
-Hyvityslasku laaditaan valitsemalla **Laskut**-välilehden luettelosta hyvitettävä lasku ja painamalla **Hyvityslasku**.
-
-![](hyvityslasku.png)
-
-Kirjoita laskulle tehtävät hyvitykset/korjaukset **Rivit**-välilehden ruudukkoon.
-
-![](hyvitys.png)
+![](mallilasku.png)

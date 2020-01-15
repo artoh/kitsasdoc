@@ -1,7 +1,10 @@
 # Tilinpäätöksen malli
 
 !!! note "Edistynyt toiminto"
-    Sinun ei yleensä tarvitse muokata tilinpäätöksen mallia. Muokkaus on otettava erikseen käyttöön [perusvalintojen](../perusvalinnat) kohdasta **Näytä tulosteiden muokkauksen työkalut**.
+    Sinun ei yleensä tarvitse muokata tilinpäätöksen mallia.
+
+!!! warning "Tilikarttojen päivitykset"
+    Tilikartan päivitykset tekevät muutoksia myös tilinpäätöksen malliin. Jos päivität myöhemmin tilikartan, saatat joutua tekemään muutokset uudelleen.
 
 ![](malli.png)
 
@@ -9,10 +12,10 @@ Tässä määritellään tilinpäätökseen tulostuvat raportit sekä liitetieto
 
 Erikoismerkeillä alkavat värilliset rivit määrittelevät ehtoja ja tulosteita, ja kaikki muu html-muotoinen teksti tulostuu tilinpäätöksen liitetietoihin.
 
-**?**-alkuiset rivit määrittelevät, että niiden jälkeen tulostuu vain tietyllä Kitupiikin asetuksella aina seuraavaan **?**-ehtoon saakka (Pelkkä **?** lopettaa ehdon). Niinpä seuraavan esimerkin osuus on käytettävissä vain osakeyhtiöille
+**?**-alkuiset rivit määrittelevät, että niiden jälkeen tulostuu vain tietyllä asetuksella aina seuraavaan **?**-ehtoon saakka (Pelkkä **?** lopettaa ehdon). Niinpä seuraavan esimerkin osuus on käytettävissä vain osakeyhtiöille
 
 ```
-?Muoto=Osakeyhtiö
+?muoto=oy
 ##Osakeyhtiön pääoma ja vapaan oman pääoman käyttö
 #oypaaoma Oman pääoman muutokset
 <h2>Oman pääoman muutokset</h2>
@@ -56,7 +59,6 @@ annetun asetuksen (PMA) mikroyrityssäänöstöä.</p>
 annetun asetuksen (PMA) pienyrityssäänöstöä.</p>
 ```
 
-![](muodostaminen.png)
 
 **#**-alkuiset rivit määrittelevät tulostusehtoja. Ne ovat muotoa
 
@@ -75,10 +77,12 @@ Pelkkä **#** lopettaa ehdon, ja sen jälkeen rivit tulostuvat jälleen kaikilla
 
 * `@Raportin nimi!Otsikko@` määrittelee, että mainittu raportti liitetään tilinpäätökseen, `@Raportin nimi$!Otsikko@` budjettivertailun liittämisen tilinpäätökseen ja `@Raportin nimi*Otsikko@` vastaavasti raportin erittelylle (nämä voi liittää helpommin **Lisää raportti**-napilla)
 * `@henkilosto@` lisää taulukon henkilöstön määrästä tällä ja edellisellä tilikaudella
-* `@sha@` lisää arkiston sha256-tiivisteen
 
 ```
 #HENKILOSTO
 <h2>Henkilöstön määrä</h2>
 @henkilosto@
 ```
+
+!!! note "DevTool"
+    Tilikartan kaikkiin asetuksiin pääsee käsiksi **DevTool**-työkalulla, joka käynnistyy painamalla <kbd>Ctrl</kbd>+<kbd>D</kbd>. Käytä työkalua vain todelliseen tarpeeseen!

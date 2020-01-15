@@ -129,7 +129,7 @@ määrityksiä. Ne kaikki on selostettu Asetukset-luvussa.
 4. Syötä **tilinavaus** edellisen tilinpäätöksen perusteella
 
 !!! note "Tutustu ohjelmaan"
-    Ohjelmasta löytyy melkoinen määrä asetuksia ja toimintoja. Jo ennen varsinaisen kirjanpidon aloittamista kannattaa ohjelman ohjeisiin tutustua ajan kanssa.
+    Ohjelmasta löytyy melkoinen määrä erilaisia asetuksia ja toimintoja. Jo ennen varsinaisen kirjanpidon aloittamista kannattaa ohjelman ohjeisiin tutustua ajan kanssa.
 
 ## Harjoittelutila
 
