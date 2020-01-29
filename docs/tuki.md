@@ -1,17 +1,16 @@
 # Käyttäjätuki
 
-Kysy, kommentoi ja tee ehdotuksia Kitupiikin uusista ominaisuuksista osallistumalla näiden nettisivujen alalaidassa olevaan keskusteluun.
+!!! note "Tulossa mahdollisuus maksulliseen tilaukseen"
+    Kitsaan varsinaisen julkaisun myötä Kitsas Oy tarjoaa mahdollisuuta tilaukseen, joka sisältää kirjanpidon tallentamisen palveen sekä ohjelman sähköpostituen. Ohjelman maksuton tuki keskittyy näillä sivuilla esitettyihin kysymyksiin, joihin voivat vastata muutkin ohjelman käyttäjät.
+
+Kysy, kommentoi ja tee ehdotuksia Kitsaan ominaisuuksista osallistumalla näiden nettisivujen alalaidassa olevaan keskusteluun.
 
 Kirjoita kysymyksesi kommenttina sille sivulle, jossa käsitellään sinua askarruttavaa asiaa.
 
 
 ## Palaute
 
-Voit lähettää Kitupiikistä palautetta [palautelomakkeella](http://palaute.kitupiikki.info) tai sähköpostilla <a href="mailto:palaute@kitupiikki.info">palaute@kitupiikki.info</a>. Sivun alalaidan kommenteilla saat kuitenkin nopeamman vastauksen, koska näihin kysymyksiin voivat vastata myös muut ohjelman käyttäjät.
+Palautetta ohjelmasta voi lähettää osoitteeseen palaute@kitsas.fi
 
-
-## Osallistu
-
-Kitupiikkiä kehitetään ja testataan täysin vapaaehtoisvoimin. Voit osallistua itse antamalla [palautetta](http://palaute.kitupiikki.info), vastaamalla muiden kysymyksiin sekä etsimällä ohjelmasta virheitä. Voit myös ehdottaa itse tekemäsi tilikartan liittämistä Kitupiikkiin tai jopa osallistua [GitHubin](https://github.com/artoh/kitupiikki) kautta Kitupiikin koodaamiseen.
-
-Kitupiikin tulevaisuuden näkymät löytyvät [Kitupiikin HuBoardista](https://huboard.com/artoh/kitupiikki#/milestones). Parannusehdotuksia voi tehdä [GitHubin Issues-toiminnolla](https://github.com/artoh/kitupiikki/issues/new).
+!!! info "Kitsas on avointa lähdekoodia"
+    Kitsas Oy kehittää tätä ohjelmistoa yhteistyössä avoimen lähdekoodin yhteisön kanssa. Kuka tahansa voi ehdottaa ohjelmaan muutoksia [GitHub-palvelun](https://github.com/artoh/kitupiikki) kautta.

@@ -26,10 +26,10 @@ extra:
       link: 'https://github.com/artoh/kitupiikki'
     - type: 'youtube'
       link: 'https://www.youtube.com/channel/UCVNHCMQoNb66OgzuTSfdKqQ'
-    - type: 'comment'
-      link: 'http://palaute.kitupiikki.info'
     - type: 'twitter'
-      link: 'https://twitter.com/KitupiikkiInfo'
+      link: 'https://twitter.com/kitsasfi'
+    - type: 'facebook'
+      link: 'https://facebook.com/kitsas.fi'
   search:
     language: 'fi'
 markdown_extensions:

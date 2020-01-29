@@ -11,6 +11,7 @@ GPL-lisenssin lisäehtojen mukaisesti edellytetään, että
 - esitettävä selkeästi, että Kitsas Oy ei tarjoa minkäänlaista tukea muokatulle ohjelmistolle
 - vältettävä käyttämästä Kitsas Oy:n nimeä muokatun ohjelmiston yhteydessä
 
+<strong>Kitsas Oy kiittää kaikkia ohjelman kehitystyöhön osallistuneita sekä koko avoimen lähdekoodin yhteisöä.</strong>
 
 ## Käytettyjä kirjastoja
 
@@ -26,6 +27,12 @@ GPL-lisenssin lisäehtojen mukaisesti edellytetään, että
 
 [libzip](https://libzip.org) Copyright &copy; Dieter Baron and Thomas Klausner lisenssillä [3-clause BSD license](https://libzip.org/license/)
 
+## Kuvakekirjastoja
+
+[Open Icon Libary](https://sourceforge.net/projects/openiconlibrary/)
+
+Free Icons osoitteessa [www.freeicons.io](https://www.freeicons.io)
+
 ## Tilikarttojen pohja
 
 Elinkeinoelämän tilikartta perustuu [Tilitin-kirjanpito-ohjelmaan](http://helineva.net/tilitin/) &copy; Tommi Helineva lisenssillä [GNU General Public License version 3](https://www.gnu.org/licenses/gpl.html). Muut tilikartat pohjautuvat Tili-instituuttisäätiön [Raportointikoodistoon](https://www.raportointikoodisto.fi).
@@ -35,6 +42,11 @@ Elinkeinoelämän tilikartta perustuu [Tilitin-kirjanpito-ohjelmaan](http://heli
 Linux [AppImage](https://appimage.org) lisenssillä MIT License
 
 Windows [Inno Setup](http://www.jrsoftware.org/isinfo.php) lisenssillä [Inno Setup License](http://www.jrsoftware.org/files/is/license.txt)
+
+## Avoin lähdekoodi
+
+Ohjelmaa kehitetään yhteistyössä avoimen lähdekoodin yhteisön kanssa. Ohjelman lähdekoodi on saatavilla (GitHub-palvelusta)[https://github.com/artoh/kitupiikki]. GitHub-palvelun kautta koko tahansa voi osallistua ohjelman kehittämiseen ehdottamalla muutoksia ohjelman lähdekoodiin.
+
 
 ## GNU General Public License 3
 [Epävirallinen suomenkielinen käännös](https://www.turre.com/licenses/gpl_fi.php)

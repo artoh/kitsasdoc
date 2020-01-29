@@ -4,6 +4,9 @@
 
 Muokataksesi asiakkaasta tallennettuja yhteystietoja valitse asiakkaan nimen oikealla puolella oleva kuvake. Jos haluat kirjoittaa yksittäisen laskun lisäämättä asiakasta asiakasrekisteriin, tai jos haluat lähettää yksittäisen laskun toiseen osoitteeseen, muokkaa suoraan kohtia **Nimi ja osoite** tai **Sähköposti**
 
+!!! Note "ALV-tunnus tarvitaan"
+    Käänteisen arvonlisäverovelvollisuuden laskut edellyttävät, että laskulle on valittu asiakas jonka asiakastietoihin on määritelty ALV-tunnus.
+
 **Laskutus** kentän vierestä valitaan **kieli**, **laskun toimitustapa** sekä **kirjausperuste**.
 
 Laskulle tehdään kirjanpidossa jaksotus toimituspäivämäärän tai toimitusaikavälin mukaan. Jos valitset **Suoriteperusteisen laskun**, kirjataan lasku toimituspäivälle. **Otsikko** tulostuu laskulle sekä toimii kirjanpidossa tositteen otsikkona.
