@@ -21,15 +21,6 @@ Kirjaudu **Pilvi**-välilehdellä syöttämällä sähköpostiosoitteesi ja sala
 
 Kirjauduttuasi saat luettelon pilvessä olevista kirjanpidoista, joihin sinulla on käyttöoikeus. Pilvessä olevia kirjanpitoja voi useampi käyttäjä käsitellä samanaikaisesti.
 
-Kuvake  |   Käyttöoikeudet
---------|--------------------
-![](view.png)  | **Lukuoikeus** Oikeus lukea kirjanpito
-![](edit.png)  | **Luonnos** Lukemisen lisäksi saat tallentaa tositteita Luonnos-tilaan
-![](pencil.png)| **Muokkaus** Lukemisen lisäksi tositteiden ja laskujen tallentaminen ja muokkaus
-![](adminkey.png) | **Hallinta** Edellisten lisäksi oikeus asetusten muokkaamiseen sekä alv-tilityksen ja tilinpäätöksen tekemiseen sekä oikeuksien myöntämiseen toisille käyttäjille
-![](key.png) | **Omistaja** Edellisten lisäksi oikeus tilausten hallintaan
-
-
 **Tilaukseni**-painikkeellä voit ottaa käyttöön maksullisen tilauksen, johon sisältyy pilvitallennustilaa sekä tukipalveluita.
 
 
