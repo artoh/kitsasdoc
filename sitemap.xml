@@ -2,252 +2,282 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://ohjeet.kitsas.fi/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/kirjanpito/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/pilvi/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/aloitus/uusi/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/aloitus/kitupiikki/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/videot/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/pika/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/kirjaus/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/kirjaus/menotulo/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/kirjaus/siirto/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/kirjaus/tiliote/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/kirjaus/palkka/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/kirjaus/muu/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/selaus/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ohjeet.kitsas.fi/kierto/laskut/</loc>
+     <lastmod>2020-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ohjeet.kitsas.fi/kierto/maaritykset/</loc>
+     <lastmod>2020-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ohjeet.kitsas.fi/kierto/portaali/</loc>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/myynnit/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/uusi/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/ennakko/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/hyvitys/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/muistutus/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/ryhma/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/ostot/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/rekisteri/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/laskutus/tuotteet/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tulosteet/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/alv/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/alv/mallikirjaukset/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/alv/tilitys/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/alv/korjaaminen/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/alv/maksuperusteinen/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tilikaudet/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tilikaudet/arkisto/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tilikaudet/budjetti/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tilinpaatos/aloittaminen/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tilinpaatos/poistot/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tilinpaatos/jaksotukset/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tilinpaatos/tulovero/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tilinpaatos/asiakirja/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/perusvalinnat/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ohjeet.kitsas.fi/maaritykset/kayttooikeudet/</loc>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/tilikartta/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/kohdennukset/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/tilinavaus/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/laskutus/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/maksutavat/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/tositesarjat/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/sahkoposti/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ohjeet.kitsas.fi/kierto/maaritykset/</loc>
+     <lastmod>2020-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ohjeet.kitsas.fi/maaritykset/kierto/</loc>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/raportit/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/tilinpaatos/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/maaritykset/paivitys/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/tuki/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://ohjeet.kitsas.fi/lisenssi/</loc>
-     <lastmod>2020-01-15</lastmod>
+     <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
