@@ -71,12 +71,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://ohjeet.kitsas.fi/kierto/kierto/</loc>
+     <lastmod>2020-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://ohjeet.kitsas.fi/kierto/laskut/</loc>
      <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://ohjeet.kitsas.fi/kierto/maaritykset/</loc>
+     <loc>https://ohjeet.kitsas.fi/maaritykset/kierto/</loc>
      <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -246,12 +251,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://ohjeet.kitsas.fi/kierto/maaritykset/</loc>
+     <loc>https://ohjeet.kitsas.fi/maaritykset/kierto/</loc>
      <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://ohjeet.kitsas.fi/maaritykset/kierto/</loc>
+     <loc>https://ohjeet.kitsas.fi/maaritykset/verkkolasku/</loc>
+     <lastmod>2020-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ohjeet.kitsas.fi/maaritykset/inbox/</loc>
      <lastmod>2020-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
