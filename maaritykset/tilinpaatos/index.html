@@ -1279,7 +1279,13 @@ annetun asetuksen (PMA) pienyrityssäänöstöä.&lt;/p&gt;
 <p>Pelkkä <strong>#</strong> lopettaa ehdon, ja sen jälkeen rivit tulostuvat jälleen kaikilla valinnoilla.</p>
 <p><strong>@</strong>-alkuiset rivit määrittelevät erityisen tulostettavan</p>
 <ul>
-<li><code>@Raportin nimi!Otsikko@</code> määrittelee, että mainittu raportti liitetään tilinpäätökseen, <code>@Raportin nimi$!Otsikko@</code> budjettivertailun liittämisen tilinpäätökseen ja <code>@Raportin nimi*Otsikko@</code> vastaavasti raportin erittelylle (nämä voi liittää helpommin <strong>Lisää raportti</strong>-napilla)</li>
+<li><code>@Raportin nimi:Valinnat!Otsikko@</code> määrittelee, että mainittu raportti liitetään tilinpäätökseen, (nämä voi liittää helpommin <strong>Lisää raportti</strong>-napilla). Mahdollisia valintoja ovat
+    Tunnus  |  Valinta
+    --------|-----------
+    E       | Tilikohtaiset erittelyt
+    K       | Erittely kustannuspaikoittain
+    P       | Erittely projekteittain
+    B       | Budjettivertailu</li>
 <li><code>@henkilosto@</code> lisää taulukon henkilöstön määrästä tällä ja edellisellä tilikaudella</li>
 </ul>
 <pre><code>#HENKILOSTO
