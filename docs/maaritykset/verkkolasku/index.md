@@ -1,10 +1,10 @@
 # Verkkolaskut
 
 !!! note "Vain tilaajille"
-    Verkkolaskutoiminto hyödyntää Kitsas Oy:n palvelinta, ja on käytettävissä vain maksullisten tilausten sekä kaikkien pilveen tallennettujen kirjanpitojen yhteydessä.
+Verkkolaskutoiminto hyödyntää Kitsas Oy:n palvelinta, ja on käytettävissä vain maksullisten tilausten sekä kaikkien pilveen tallennettujen kirjanpitojen yhteydessä.
 
 !!! note "Vain yritysten Finvoice-verkkolaskut"
-    Kitsas ei toistaiseksi tue kuluttajien verkkolaskuja
+Kitsas ei toistaiseksi tue kuluttajien verkkolaskuja
 
 ![](verkkolasku.png)
 
@@ -13,7 +13,7 @@
 ![](paikallinen.png)
 
 !!! note "Kirjautuminen vaaditaan"
-    Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi
+Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi
 
 Kun laskutuksessa lähetät verkkolaskun, muodostaa Kitsas verkkolaskusta xml-tiedoston ja tallentaa sen valitsemaasi hakemistoon. Sinun on itse huolehdittava tiedoston lataamisesta verkkolaskuoperaattorillesi.
 
@@ -32,7 +32,7 @@ Kitsaan verkkolaskuasetusten **Määritä**-painikkeella pääset syöttämään
 ### Verkkolaskujen lähettäminen
 
 !!! note "Kirjautuminen vaaditaan"
-    Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi
+Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi
 
 Kun laskutuksessa lähetät verkkolaskun, lähetetään se välittömästi Maventan kautta eteenpäin.
 
@@ -50,6 +50,6 @@ Kitsaassa ei toistaiseksi ole suoraa pankkiyhteyttä, vaan sinun on huolehdittav
 
 ### Laskujen postituspalvelu
 
-Kun **Paperilaskujen postitun Maventan kautta** on valittuna, toimitetaan laskuja lähetettäessä ne laskut, joiden toimitustapana on **Postitus**, Maventan tulostuspalveluun. Maventa veloittaa laskujen tulostamisesta oman hinnastonsa mukaan.
+Kun **Paperilaskujen postitus Maventan kautta** on valittuna, toimitetaan laskuja lähetettäessä ne laskut, joiden toimitustapana on **Postitus**, Maventan tulostuspalveluun. Maventa veloittaa laskujen tulostamisesta oman hinnastonsa mukaan.
 
 Kitsaan toteutuksesta johtuen voit toistaiseksi lähettää postutuspalvelulla laskuja vain kotimaisiin osoitteisiin.
