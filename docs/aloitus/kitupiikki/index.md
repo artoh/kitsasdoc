@@ -1,8 +1,7 @@
 # Kirjanpidon siirtäminen Kitupiikistä
 
 !!! note "Rajoituksia siirtämisessä"
-    - Kitsas ei toistaiseksi sisällä asunto-osakeyhtiön tilikarttaa, joten asunto-osakeyhtiöiden kirjanpitoja ei vielä toistaiseksi voi tuoda.
-    - Siirtäminen onnistuu ainoastaa uudemmista elinkeinoelämän ja yhdistystoiminnan tilikartoista (versiosta 0.7, maaliskuu 2018 lähtien). Muista tilikartoista siirryttäessä on aloitettava uusi kirjanpito ja tehtävä tilinavaus.
+    - Siirtäminen onnistuu ainoastaa uudemmista elinkeinoelämän, asunto-osakeyhtiön ja yhdistystoiminnan tilikartoista (versiosta 0.7, maaliskuu 2018 lähtien). Muista tilikartoista siirryttäessä on aloitettava uusi kirjanpito ja tehtävä tilinavaus.
     - Kitsas ei tue enää maksuperusteisia laskuja. Jos siirrettäessä kirjanpidossa on avoimia maksuperusteisia laskuja, muutetaan ne laskuperusteisiksi niin, että päivämääräksi merkitään kirjanpidon siirtopäivämäärä.
     - Jos haluat siirtää Kitupiikin kirjanpidon pilveen, sinun pitää ensin muuntaa kirjanpito Kitsaan tiedostoksi ja vasta sitten siirtää kirjanpito pilveen.
     - Suurin osa tositteista saa Kitsaaseen siirrettäessä tositelajin "Tuonti". Tuotujen tositteiden muokkaus poikkeaa hieman siitä, miten Kitsaalla luotuja uusia tositteita pääsee muokkaamaan.
@@ -36,7 +35,9 @@ Kitsas pystyy siirtämään lähes kaikki Kitupiikissä olleet asetukset. Tarkis
 
 ## Huomattavia muutoksia Kitupiikin käyttäjille
 
-Kitsaassa tositteiden kirjaaminen on muuttunut kokonaisuudessaan. Vanha kirjausapuri on laitettu eläkkeelle, ja sen tilalla on tositelajien omat kirjausikkunat. Erityisesti tiliotteiden kirjaaminen on yksinkertaistanut.
+Kitsaassa tositteiden kirjaaminen on muuttunut kokonaisuudessaan. Vanha kirjausapuri on laitettu eläkkeelle, ja sen tilalla on tositetyyppien omat kirjausikkunat. Erityisesti tiliotteiden kirjaaminen on yksinkertaistanut.
+
+Kitsaassa **tositetyyppi** määrittelee, millä lomakkeella kirjaus tehdään. Tositetyyppi ei välttämättä liity tositteen numeroinnissa mahdollisesti käytettävään **tositesarjaan**.
 
 Myös laskutusnäkymä on rakennettu kokonaan uudelleen. Ohjelmaan on toteutettu asiakkaiden ja toimittajien rekisteri.
 

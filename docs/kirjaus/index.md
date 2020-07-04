@@ -16,7 +16,7 @@
 Tyyppi    | Käyttötarkoitus
 ----------|-----------------------
 Meno      | Ostolaskut ja muut menotositteet
-Tulo      | Myyntilaskut ja muut menotositteet
+Tulo      | Myyntilaskut ja muut tulotositteet
 Kululasku | Työntekijän (tms.) omalla rahallaan ostaman yritykselle kuuluvan menon kulut korvataan hänelle jälkikäteen
 Siirto    | Rahoitustapahtuma, kuten tilillepano, tililtäotto, laskun maksu tms. jossa raha siirtyy kahden kirjanpitotilin välillä. Pankkitilin tapahtumia tiliotteelta kirjattaessa käytä kuitenkin Tiliote-tositetyyppiä.
 Tiliote   | Pankkitilin tapahtumien kirjaaminen tiliotteelta. Tiliotteelta voidaan kirjata laskujen maksamisen lisäksi arvonlisäverottomia tuloja ja menoja.
@@ -50,6 +50,11 @@ Voit myös tehdä tositteen, jossa on liite ja mahdollisesti kommentteja ilman y
 
 ## Tositesarja
 
+!!! note "Tositteiden numerointi"
+    Tositenumeroinnin ainoa tarkoitus on yhdistää tositteen tiedot kirjanpidossa tositteeseen. Nykyisen kirjanpitolain mukaan tositenumeroinnin ei tarvitse olla aikajärjestyksessä tai yhtenäinen (eikä edes koostua numeroista), kunhan jokainen tosite on yksilöitävissä.
+
+    Jos kuitenkin haluat yhtenäisen, aikajärjestyksessä olevan tositenumeroinnin, voit oikaista tositenumerointia Tilikaudet-välilehden Numeroi uudelleen -toiminnolla.
+
 Jos olet valinnut numeroinnin useampaan tositesarjaan, voit valita tositesarjan tunnuksen.
 
 Tositteet numeroidaan vasta, kun ne tallennetaan valmiina kirjanpitoon. Tallennuksen jälkeen Kitsas näyttää tallennetun tositteet tunnuksen. Jos säilytät tositteet paperisina, merkitse ohjelman ilmoittama tunnus tositteeseen.
@@ -69,3 +74,4 @@ Kirjausikkunan oikean alakulman valikosta löytyvät
 
 * **Tulosta tosite** <kbd>Ctrl</kbd>+<kbd>P</kbd>
 * **Poista tosite**
+* **Tyhjennä viennit**

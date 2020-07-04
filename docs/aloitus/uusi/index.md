@@ -1,10 +1,9 @@
 # Kirjanpidon aloittaminen
 
-<!--
-!!! tip ""
-    [<span class="fa fa-youtube"></span> Katso video uuden kirjanpidon aloittamisesta](https://www.youtube.com/watch?v=ESYLC2T0Tds&t=6s)   
 
--->
+!!! tip ""
+    [<span class="fa fa-youtube"></span> Kirjanpidon luominen (Yhdistys)](https://youtu.be/FQxsg92VjrI)   
+
 
 ## Aloittaminen
 
@@ -119,6 +118,11 @@ Kaikki valinnat on tehty ja Kitsas on valmis luomaan uuden kirjanpidon.
 
 
 ## Viimeistele vielä määritykset
+
+!!! tip ""
+    [<span class="fa fa-youtube"></span> Kirjanpidon asetukset ja tilikartan muokkaaminen (Yhdistys)](https://youtu.be/R7vJiC3HjRQ)   
+
+    [<span class="fa fa-youtube"></span> Tilinavaus (Yhdistys)](https://youtu.be/7PJTKbHzWbA)   
 
 Ennen kuin aloitat kirjausten tekemisen, kannattaa vielä tarkistaa joukko
 määrityksiä. Ne kaikki on selostettu Asetukset-luvussa.

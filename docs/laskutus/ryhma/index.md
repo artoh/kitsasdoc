@@ -1,5 +1,8 @@
 #Ryhmälasku  
 
+!!! tip ""
+    [<span class="fa fa-youtube"></span> Ryhmälaskun lähettäminen](https://youtu.be/M8_CfFOYChQ)
+
 Ryhmälasku-toiminnolla voit lähettää saman sisältöisen laskulle kerralla useammalle asiakkaalle. Laskun laatiminen aloitetaan laskulistauksessa **Ryhmälasku**-painikkeella.
 
 ![](ryhmalasku.png)

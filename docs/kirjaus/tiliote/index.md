@@ -1,5 +1,8 @@
 # Tiliote
 
+!!! tip ""
+    [<span class="fa fa-youtube"></span> Ohjevideo tiliotteen kirjaamisesta (Yhdistykset)](https://youtu.be/WKIynu2hdjg)
+
 ## Kirjaaminen
 
 ![](tiliote1.png)

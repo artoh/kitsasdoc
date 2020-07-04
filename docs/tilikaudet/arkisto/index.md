@@ -47,7 +47,7 @@ b3fb35a6e113b98e4eb68a133b575463b05d6a39a9c78fb584ade9e9ef6a7b78  arkisto.sha256
 ```
 Ohjelma tulostaa valvontatiedoston tiivisteen, jota pitää verrata tiedossa olevaan tiivisteeseen.
 
-Valvontatiedosto sisältää kaikkien arkistoon kuuluvien tositteiden ja raporttien - ei kuitenkaan tilinpäätöksen - tiivisteet. Tiivisteet pitää vielä tarkastaa komennolla **sha256sum -c arkisto.sha256**.
+Valvontatiedosto sisältää kaikkien arkistoon kuuluvien tositteiden ja raporttien tiivisteet. Tiivisteet pitää vielä tarkastaa komennolla **sha256sum -c arkisto.sha256**.
 
 ```
 arto@pantteri ~/LatakonUimakerho/arkisto/2018 $ sha256sum -c arkisto.sha256

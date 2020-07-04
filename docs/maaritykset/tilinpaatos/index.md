@@ -75,7 +75,13 @@ Pelkkä **#** lopettaa ehdon, ja sen jälkeen rivit tulostuvat jälleen kaikilla
 
 **@**-alkuiset rivit määrittelevät erityisen tulostettavan
 
-* `@Raportin nimi!Otsikko@` määrittelee, että mainittu raportti liitetään tilinpäätökseen, `@Raportin nimi$!Otsikko@` budjettivertailun liittämisen tilinpäätökseen ja `@Raportin nimi*Otsikko@` vastaavasti raportin erittelylle (nämä voi liittää helpommin **Lisää raportti**-napilla)
+* `@Raportin nimi:Valinnat!Otsikko@` määrittelee, että mainittu raportti liitetään tilinpäätökseen, (nämä voi liittää helpommin **Lisää raportti**-napilla). Mahdollisia valintoja ovat
+    Tunnus  |  Valinta
+    --------|-----------
+    E       | Tilikohtaiset erittelyt
+    K       | Erittely kustannuspaikoittain
+    P       | Erittely projekteittain
+    B       | Budjettivertailu
 * `@henkilosto@` lisää taulukon henkilöstön määrästä tällä ja edellisellä tilikaudella
 
 ```

@@ -41,7 +41,7 @@ markdown_extensions:
 pages:
   - Kitsas: 'index.md'
   - Kirjanpidosta lyhyesti: 'kirjanpito/index.md'
-  - Aloittaminen: 
+  - Aloittaminen:
     - Kitsaan pilvi: 'pilvi/index.md'
     - Uusi kirjanpito : 'aloitus/uusi/index.md'
     - Siirtäminen Kitupiikistä: 'aloitus/kitupiikki/index.md'
@@ -53,6 +53,7 @@ pages:
     - Siirtotosite : 'kirjaus/siirto/index.md'
     - Tiliote : 'kirjaus/tiliote/index.md'
     - Palkka : 'kirjaus/palkka/index.md'
+    - Tuonti: 'kirjaus/tuonti/index.md'
     - Muut tositteet: 'kirjaus/muu/index.md'
   - Selaaminen ja etsiminen: 'selaus/index.md'
   - Kierto:
@@ -66,10 +67,11 @@ pages:
     - Ennakkolasku: 'laskutus/ennakko/index.md'
     - Hyvityslasku: 'laskutus/hyvitys/index.md'
     - Maksumuistutukset: 'laskutus/muistutus/index.md'
-    - Ryhmälasku : 'laskutus/ryhma/index.md'    
+    - Ryhmälasku : 'laskutus/ryhma/index.md'
     - Ostot: 'laskutus/ostot/index.md'
     - Rekisteri: 'laskutus/rekisteri/index.md'
     - Tuotteet: 'laskutus/tuotteet/index.md'
+    - Vakioviitteet: 'laskutus/vakioviite/index.md'
   - Raportit: 'tulosteet/index.md'
   - Arvonlisävero:
     - Arvolisävero: 'alv/index.md'
@@ -96,12 +98,12 @@ pages:
     - Laskutus: 'maaritykset/laskutus/index.md'
     - Maksutavat: 'maaritykset/maksutavat/index.md'
     - Tositesarjat: 'maaritykset/tositesarjat/index.md'
-    - Sähköpostin lähettäminen: 'maaritykset/sahkoposti/index.md'    
+    - Sähköpostin lähettäminen: 'maaritykset/sahkoposti/index.md'
     - Laskujen kierto: 'maaritykset/kierto/index.md'
     - Verkkolasku: 'maaritykset/verkkolasku/index.md'
     - Kirjattavien kansio: 'maaritykset/inbox/index.md'
     - Raportit: 'maaritykset/raportit/index.md'
-    - Tilinpäätöksen malli: 'maaritykset/tilinpaatos/index.md'        
+    - Tilinpäätöksen malli: 'maaritykset/tilinpaatos/index.md'
     - Tilikartan päivitys: 'maaritykset/paivitys/index.md'
   - Tuki: 'tuki.md'
   - Lisenssi: 'lisenssi.md'

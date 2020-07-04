@@ -1,5 +1,9 @@
 ## Uusi lasku
 
+!!! tip ""
+    [<span class="fa fa-youtube"></span> Yksittäisen laskun lähettäminen sähköpostilla](https://youtu.be/5DFfNlHJAEA)
+
+
 ![](uusi.png)
 
 Muokataksesi asiakkaasta tallennettuja yhteystietoja valitse asiakkaan nimen oikealla puolella oleva kuvake. Jos haluat kirjoittaa yksittäisen laskun lisäämättä asiakasta asiakasrekisteriin, tai jos haluat lähettää yksittäisen laskun toiseen osoitteeseen, muokkaa suoraan kohtia **Nimi ja osoite** tai **Sähköposti**

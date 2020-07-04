@@ -1,5 +1,8 @@
 # Menot ja tulot
 
+!!! tip ""
+    [<span class="fa fa-youtube"></span> Ohjevideo meno- ja tulotositteiden kirjaamisesta (Yhdistykset)](https://youtu.be/sxCpdRc16r4)
+
 ![](myllykirjaus.png)
 
 Aloita kirjaaminen aina lisäämällä mahdollinen sähköinen tosite.

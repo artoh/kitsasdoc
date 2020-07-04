@@ -1,5 +1,8 @@
 # Tilinavaus
 
+!!! tip ""
+    [<span class="fa fa-youtube"></span> Tilinavaus](https://youtu.be/7PJTKbHzWbA)  
+
 ![](tilinavaus.png)
 
 Tilinavauksessa syötetään tilin avaavina saldoina tilien loppusummat edellisen tilinpäätöksen taseesta ja tuloslaskelman erittelystä.

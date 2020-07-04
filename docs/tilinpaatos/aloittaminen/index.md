@@ -1,7 +1,7 @@
 # Tilinpäätöksen aloittaminen
 
-<!-- !!! tip ""
-    [<span class="fa fa-youtube"></span> Katso video tilinpäätöksen laatimisesta](https://www.youtube.com/watch?v=cldqp1k_3Qo)   -->
+ !!! tip ""
+    [<span class="fa fa-youtube"></span> Katso video yhdistyksen tilinpäätöksen laatimisesta](https://youtu.be/YFeb9-CZF2g)   
 
 Tilinpäätös on laadittava neljän kuukauden kuluessa tilikauden päättymisestä. Kitsas muistuttaa tästä aloitusnäytössä. Kun kaikki tilikaudelle kuuluvat tositteet on kirjattu, aloitetaan tilinpäätöksen laatiminen **Tilikaudet**-välilehden **Tilinpäätös**-painikkeesta.
 

@@ -12,6 +12,9 @@ Jos käytät kohdennuksia, pääset **Kohdennus**-sarakkeessa valitsemaan kohden
 
 ## Arvonlisäveron kirjaaminen
 
+!!! danger "Suosi Meno- ja tulotositetta"
+    Meno- ja tulotositteen omiin tositetyypeihin sisältyy paljon sellaista automaatiota, jota ei ole käytettävissä kirjattaessa käsin tositetyypille Muu. Pyri kirjaamaan arvonlisäverolliset viennit meno- ja tulotositteina.
+
 Arvonlisäveron tietoja pääset muokkaamaan napsauttamalla Alv-saraketta, josta avautuu valintaikkuna. Tehtäessä arvonlisäverollisia kirjauksia pitää vientiin määritellä aina oikeat arvonlisäveron ohjaustiedot.
 
 Katso tarkemmin luvusta [Arvonlisävero](/alv) eri arvonlisäveron kirjaustyypit.
@@ -26,10 +29,9 @@ Verollinen myynti (netto)  | Myynti-tilille kirjataan veroton määrä alv-tiedo
 Verollinen myynti (brutto) | Koko bruttohinta kirjataan myynti-tilille alv-tiedolla *Veronalainen määrä* ja *Verokanta*. Vero erotellaan tästä kirjauksesta alv-ilmoituksen yhteydessä.
 Verollinen myynti (maksuperusteinen alv) | Myynti-tilille kirjataan veroton määrä alv-tiedoilla *Veronalainen määrä* ja *Verokanta*. Maksuperusteisen alv-velan tilille kirjataan alv:n määrä tiedoilla *Kohdentamaton maksuperusteinen alv* ja *Verokanta*.
 
-Muut arvonlisäverot kirjataan aina nettoperusteisesti niin, että alv-tiedolla *Veronalainen määrä* merkitään veron peruste ja alv-tiedolla *Veron määrä* maksettava vero ja vastaavasti *Vähennettävä määrä* alv-vähennykset määrä.
+Kotimaan ostot kirjataan vastaavasti verolajeille Verollinen osto (netto, brutto tai maksuperusteinen alv).
 
-!!! tip "Suosi Meno- ja tulotositetta"
-    Meno- ja tulotositteen omiin tositetyypeihin sisältyy paljon sellaista automaatiota, jota ei ole käytettävissä kirjattaessa käsin tositetyypille Muu.
+Muut arvonlisäverot kirjataan aina nettoperusteisesti niin, että alv-tiedolla *Veronalainen määrä* merkitään veron peruste ja alv-tiedolla *Veron määrä* maksettava vero ja vastaavasti *Vähennettävä määrä* alv-vähennykset määrä.
 
 ## Muistiotositteet
 

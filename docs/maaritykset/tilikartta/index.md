@@ -2,12 +2,18 @@
 
 ## Tililuettelon muokkaaminen
 
+!!! tip ""
+    [<span class="fa fa-youtube"></span> Kirjanpidon asetukset ja tilikartan muokkaaminen (Yhdistys)](https://youtu.be/R7vJiC3HjRQ)   
+
 ![](tilikartta1.png)
 
 Tilikarttaan voi lisätä uusia tilejä sekä muokata ja poistaa vanhoja.
 
 !!! success "Valmiit tilikartat"
     Lähes kaikki tarvitsemasi tilit löytyvät valmiista tilikartoista, joissa tilien määritykset ovat valmiiksi kohdallaan. Jos lisäät itse tilejä, ole huolellinen numeroinnin ja määritysten kanssa, jotta kirjaukset tulevat käsitellyiksi oikein!
+
+!!! danger "Asetuksissa määriteltävät tilit"
+    Ohjelman asetuksissa määritellään monelle tilille erityinen tilirooli, esimerkiksi pankkien palvelumaksujen tili tiliotteita automaattisesti kirjattaessa. Ohjelman tilinumerointia tulisi muuttaa mahdollisimman vähän, koska numeron muutos saattaa vaatia muutoksia myös monissa tilikartan asetuksissa.
 
 Jos tilikartassa oleva tili on tarpeeton **piilota** se. Piilotettu tili ei näy luetteloissa tiliä valittaessa. Tilin voi myös kokonaan poistaa, mutta yleensä piilottaminen on parempi vaihtoehto.
 
@@ -36,6 +42,9 @@ Tilejä lisättäessä on tärkeää, että tili tulee oikealle numeroalueelle, 
 
 Pankkitileille syötetään lisäksi **IBAN-tilinumero**. Tilinumero tarvitaan maksujen kohdentamiseen maksuja
 ja tiliotteita tuotaessa.
+
+!!! note "Maksutavat"
+    Jos haluat lisäämäsi pankkitilin meno- ja tulotositteiden maksutapavalintaan, on se tehtävä [maksutapojen asetuksista](../maksutavat).
 
 **Tilikartan laajuus** määrittelee, millä tilikartan laajuuden valinnoilla tili on näkyvissä.
 
@@ -97,6 +106,3 @@ DH   | Puoliksi vähennyskelvottomat menot | Meno | Meno, joka oikeuttaa 50% vä
 DP   | Poistot | Meno  | Poistojen menotili
 DPZ  | Vähennyskelvottomat poistot | Meno | Poistot, jotka eivät oikeuta vähennykseen tuloverossa
 DVE  | Ennakkoverot | Meno | Tuloverojen maksaminen
-
-!!! note "Asetuksissa määriteltävät tilit"
-    Ohjelman asetuksissa määritellään monelle muullekin tilille erityinen tilirooli, esimerkiksi pankkien palvelumaksujen tili tiliotteita automaattisesti kirjattaessa. Ohjelman tilinumerointia tulisi muuttaa mahdollisimman vähän, koska numeron muutos saattaa vaatia muutoksia myös monissatilikartan asetuksissa.

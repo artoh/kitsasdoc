@@ -9,7 +9,7 @@
 **Kitsas** sopii yhdistyksille, yrittäjille ja yrityksille.
 
 !!! warning "Kitsas ei ole vielä valmis"
-    Ohjelma on vielä kehitys- ja testausvaiheessa ja ohjelmassa on vielä puutteita. Arvioitu vakaan ohjelman julkaisuajankohta on maaliskuu 2020.
+    Ohjelma on vielä kehitys- ja testausvaiheessa ja ohjelmassa on vielä puutteita. Arvioitu vakaan ohjelman julkaisuajankohta on huhtikuu 2020.
 
 
 

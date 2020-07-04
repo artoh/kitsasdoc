@@ -10,11 +10,11 @@ Kitsaan yhdistettyyn asiakas- ja toimittajarekisteriin tallennetaan asiakkaiden 
 !!! note "Yhdistetty rekisteri"
     *Asiakkaat*-välilehdellä näytetään vain ne asiakkaat, jotka on jo yhdistetty myynteihin; ja *toimittajat*-välilehdelle vain ne toimittajat, jotka on yhdistetty ostoihin. Jos lisäät uuden asiakkaat, tulevat asiakkaan tiedot aluksi näkyviin vain *Rekisteri*-välilehdelle.
 
-# Ryhmät
+## Ryhmät
 
 Muodostamalla ryhmiä voit hakea tietoja nopeammin, sekä voit muodostaa nopeasti ryhmälaskuja. Esimerkiksi yhdistys voi muodostaa tietystä laskutettavasta toimintaryhmästä ryhmän.
 
-# Asiakkan/Toimittajan tiedot
+## Asiakkan/Toimittajan tiedot
 
 ![](../../kirjaus/menotulo/toimittajarivi.png)
 
@@ -31,6 +31,26 @@ Nimikentän vieressä olevalla painikkeella pääset muokkaamaan asiakkaan/toimi
 ![](tiedot.png)
 
 **Kieli** ja **laskutustapa** ovat oletusvalintoina uusille laskuille. **Pankkitilien** numeroita käytetään myyntilaskujen kohdentamiseen.
+
+## Tietojen tuominen
+
+**Tuo**-painikkeella voit tuoda rekisteriin tietoja csv-tiedostosta. Valittuasi tiedoston saat ikkunan, jossa määrittelet, mitä kenttiä tiedostosi sarakkeet vastaavat. **Ryhmät**-välilehdellä voit määrittää, mihin ryhmiin lisättävät henkilöt/yritykset lisätään ja **Oletukset**-välilehdellä oletuksen maalle, laskutuskielelle ja laskutustavalle.
+
+![](tuonti.png)
+
+### Esimerkki csv-tiedostosta
+```csv
+Nimi,Lähiosoite,Postiosoite,Sähköposti
+Olli Orava,Käpykuja 8,00330 Helsinki,testi-olli@kitupiikki.info
+Otso Karhu,Kontiokuja 6,54110 Karhula,testi.otso@kitupiikki.info
+Aapo Apina,Banaanipolku 9,88790 Viidakko,testi.aapo@kitupiikki.info
+```
+
+## Tietojen vieminen
+
+**Vie**-painikkeella saat tallennettua listalla näkyvien asiakkaiden tiedot CSV-muodossa, jossa voit avata ne taulukkolaskentaohjelmassa.
+
+**Tulosta**-painikkeella saat tulostettua (tai tallennettua) listalla olevat tiedot.
 
 ## Rekisteriselosteen malli
 

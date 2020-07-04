@@ -1,8 +1,8 @@
-# Tulosteet
+# Raportit
 
 ![](tulosteet.png)
 
-Tulosteet-välilehdellä voit katsella ja tulostaa erilaisia raportteja kirjanpidostasi. Tulosteet ovat erilaisia eri tilikartoilla.
+Raportit-välilehdellä voit katsella ja tulostaa erilaisia raportteja kirjanpidostasi. Tulosteet ovat erilaisia eri tilikartoilla.
 
 Tehtyäsi haluamasi valinnat paina **Esikatsele** ja näe raportin:
 
