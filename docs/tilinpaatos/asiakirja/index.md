@@ -36,8 +36,8 @@ Jos valitset **Aloita uudelleen**, pääset tekemään uudestaan tilinpäätöks
 
 ## Kirjanpitoaineisto
 
-!!! bug "Windows tuottaa puutteellisen aineiston"
-    Windowsilla sähköisten tositteiden sisällyttämisessä kirjanpitoaineistoon esiintyy puutteita.
+!!! bug ""
+    Windowsilla sähköisten tositteiden sisällyttämisessä kirjanpitoaineistoon esiintyy jos puutteita.
 
 Kitsas kokoaa koko sähköisessä muodossa olevan kirjanpitoaineiston (tilipäätöstä lukuun ottamatta) yhteen pdf-tiedostoon, joka avautuu **Kirjanpitoaineisto**-painikkeesta.
 

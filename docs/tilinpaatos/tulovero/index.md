@@ -26,6 +26,5 @@ Tarkasta myös, että **tuloveron määrä** ja **maksetut ennakkoverot** on mer
 
 Kun laskelma on valimis, paina **Ok**. Ohjelma tekee tuloverojen jaksotuskirjaukset. Liitä veroilmoitus ja mahdolliset laskelmat kirjanpitoaineistoon.
 
-![](verokirjaus.png)
-
 Yllä olevan esimerkin mukainen tuloveron jaksotuskirjaus
+![](verokirjaus.png)

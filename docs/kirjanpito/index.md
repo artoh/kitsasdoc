@@ -9,7 +9,7 @@ Kirjanpidossa on noudatettava "hyvää kirjanpitotapaa" eli noudatettava lainsä
 Pienet yritykset ja yhteisöt saavat noudattaa joissain asioissa hieman yksinkertaisempia sääntöjä etenkin tilinpäätöksen osalta.[^3]
 
 !!! note "Pienten puolella"
-    Kitupiikki ohjeineen on suunniteltu erityisesti pienehköille yrityksille ja yhteisöille (alle 50 työntekijää, liikevaihto alle 12 milj. euroa). Kitupiikin laatima tilinpäätös on pien- ja mikroyritysasetuksen mukainen[^4].
+    Kitsas ohjeineen on suunniteltu erityisesti pienehköille yrityksille ja yhteisöille (alle 50 työntekijää, liikevaihto alle 12 milj. euroa). Kitsaan laatima tilinpäätös on pien- ja mikroyritysasetuksen mukainen[^4].
 
 [^1]: Kirjanpitolaki 3 §. Kirjanpitolain ja (<a href="http://www.finlex.fi/fi/laki/ajantasa/1997/19971339" target="_blank">-asetuksen</a> lisäksi
     <a href="http://tem.fi/kirjanpitolautakunta" target="_blank">Kirjanpitolautakunta</a> antaa kirjanpitoa koskevia
@@ -37,7 +37,7 @@ Tapahtumien kirjaamisessa ei nykyisessä laissa ole muuta määräaikaa kuin se,
 Kirjanpitoaineistoja pitää säilyttää 10 vuotta ja tositteita 6 vuotta tilikauden päättymisvuoden lopusta.
 
 !!! tip "Kirjanpito-ohjelmisto automatisoi"
-    Kitupiikki tekee tilinavaukset automaattisesti. Ohjelma tulostaa kirjanpitotietojen
+    Kitsas tekee tilinavaukset automaattisesti. Ohjelma tulostaa kirjanpitotietojen
     mukaisesti esimerkiksi tilinpäätöksessä tarvittavan tuloslaskelman ja taseen. Arkistointia varten ohjelma muodostaa sähköisen arkiston kirjanpidosta ja digitaalisessa muodossa olevista tositteista.
 
 ## Tositteet ja juokseva kirjanpito
@@ -47,7 +47,7 @@ Kaikkien kirjausten on perustuttava päivättyihin ja numeroituihin tositteisiin
 Juokseva kirjanpito tarkoittaa näiden tositteiden tallentamista ja merkitsemistä kirjanpitoon. Tositteen yksilöivä numero pitää merkitä paperisessa muodossa säilytettävään tositteeseen.
 
 !!! note "Kirjausketju"
-    Kirjausketju tarkoittaa, että tositteiden ja kirjausten yhteys kirjanpitoon ja tilinpäätökseen pitää olla vaikeuksitta todennettavissa molempiin suuntiin. Kitupiikki huolehtii tästäkin automaattisesti kunhan kirjaukset on tehty asianmukaisesti.
+    Kirjausketju tarkoittaa, että tositteiden ja kirjausten yhteys kirjanpitoon ja tilinpäätökseen pitää olla vaikeuksitta todennettavissa molempiin suuntiin. Kitsas huolehtii tästäkin automaattisesti kunhan kirjaukset on tehty asianmukaisesti.
 
 ## Kaksinkertainen kirjanpito ja tilit
 
@@ -57,7 +57,7 @@ Juokseva kirjanpito tarkoittaa näiden tositteiden tallentamista ja merkitsemist
 > Yksinkertaisessa kirjanpidossa vasemmalle kirjataan tulot ja oikealle menot
 
 !!! tip "Yksinkertaisesti taulukkolaskennalla"
-    Yksinkertainen kirjanpito on helppo tehdä taulukkolaskentaohjelmalla. Kaksinkertainen kirjanpito antaa kuitenkin paljon enemmän tietoa tuloista, menoista ja taloudellisesta tilanteesta. Kitupiikki on kaksinkertaisen kirjanpidon ohjelma, joka noudattaa suomalaista kirjanpidon säännöstöä.
+    Yksinkertainen kirjanpito on helppo tehdä taulukkolaskentaohjelmalla. Kaksinkertainen kirjanpito antaa kuitenkin paljon enemmän tietoa tuloista, menoista ja taloudellisesta tilanteesta. Kitsas on kaksinkertaisen kirjanpidon ohjelma, joka noudattaa suomalaista kirjanpidon säännöstöä.
 
 **Kaksinkertaisessa kirjanpidossa** jokainen tapahtuma kirjataan aina vähintään kahdelle tilille. *Rahatilejä* ovat pankkitilit ja käteiskassa: niillä seurataan rahan todellista liikennettä. *Tulotilit* ja *menotilit* osoittavat, mistä raha on tullut ja mihin sitä on käytetty. *Pääomatilit* seuraavat omaisuutta ja velkoja.
 
@@ -76,8 +76,8 @@ Kaksinkertaisessa kirjanpidossa seurataan myös rahatilien välistä liikennett�
 
 Käytettävistä tileistä ja niiden sisällöstä pitää olla *tililuettelo* (*tilikartta*). Eri yritysmuodoille ja yhdistyksille on valmiita mallitilikarttoja, joihin tarvittaessa lisätään omaa kirjanpitoa varten joitain tarkempia tilejä.
 
-!!! tip "Apuri auttaa"
-    Kitupiikin Apuri sijoittaa menojen ja tulojen kirjaukset oikein tilien debet- ja kredit-puolille.
+!!! tip "Ohjelmisto auttaa"
+    Tavallisissa kirjauksissa Kitsaan käyttäjä valitsee vain tositteen tyypin (esim. menotosite), ja ohjelmisto muodostaa tarvittavat kirjaukset debet- ja kredit-tileille.
 
 ## Kirjaamisperusteet
 
@@ -112,8 +112,8 @@ Jos tällaista omaisuutta myytäisiin, kirjattaisiin myynnistä saatava raha kal
 [^5]: Jos myyntitulo ylittää koko kalustotilin saldon, kirjataan ylijäämä myyntivoitoksi.
 
 
-!!! tip "Kitupiikki poistaa"
-    Kitupiikki tekee tilikauden lopun poistokirjaukset, kunhan hankinnat on kirjattu ohjeen mukaisesti.
+!!! tip "Kitsas poistaa"
+    Kitsas tekee tilikauden lopun poistokirjaukset, kunhan hankinnat on kirjattu ohjeen mukaisesti.
 
 ## Tilinpäätös
 
@@ -134,8 +134,8 @@ Tase laaditaan kirjanpitoasetuksen kaavan mukaisesti. Pienet yhtiöt saavat laat
 
 [^6]: Liitetiedoissa tulee antaa erikseen lueteltujen kohtien lisäksi myös tiedot sellaisista muista seikoista, jotka tarvitaan oikean ja riittävän kuvan saamiseksi. Poikkeuksena tästä mikroyritykselle riittää aina, että liitetietoina annetaan erillisessä pien- ja mikroyritysasetuksessa erityisesti luetellut seikat.
 
-!!! tip "Kitupiikin tilinpäätöstyökalut"
-    Kitupiikki laatii kirjanpidon mukaan taseen ja tuloslaskelman sekä ainakin suurimmalta osalta myös taseen erittelyt. Ohjelmassa on työkalu myös liitetietojen laatimiseen, ja yksinkertaisimmissa tapauksissa liitetiedot voi laatia ohjelman fraasikokoelman avulla. Lopuksi ohjelma muodostaa html-muotoisen sähköisen arkiston, jossa kirjausketjun mukaisesti pääsee tuloslaskelman ja taseen erittelyistä porautumaan aina tositteisiin saakka.
+!!! tip "Kitsas tilinpäätöstyökalut"
+    Kitsas laatii kirjanpidon mukaan taseen ja tuloslaskelman sekä ainakin suurimmalta osalta myös taseen erittelyt. Ohjelmassa on työkalu myös liitetietojen laatimiseen, ja yksinkertaisimmissa tapauksissa liitetiedot voi laatia ohjelman fraasikokoelman avulla. Lopuksi ohjelma muodostaa html-muotoisen sähköisen arkiston, jossa kirjausketjun mukaisesti pääsee tuloslaskelman ja taseen erittelyistä porautumaan aina tositteisiin saakka.
 
 ## Lisää luettavaa
 

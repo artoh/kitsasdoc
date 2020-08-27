@@ -10,7 +10,7 @@ Jos verokauden arvonlisäilmoituksen virhe (liikaa ilmoitettu tai ilmoittamatta 
 
 ![](pienkorjaus.png)
 
-Esimerkissä on aiemmalla verokaudella merkitty 1000 euron vähennyskelvotos oston vähenettäväksi 24 % verokannan mukaan. Korjaustositteelle verollinen osto merkitään miinusmerkkisenä ja veroton plusmerkkisenä. Korjaustositteeen viennit:
+Esimerkissä on aiemmalla verokaudella merkitty 1000 euron vähennyskelvoton oston vähenettäväksi 24 % verokannan mukaan. Korjaustositteelle verollinen osto merkitään miinusmerkkisenä ja veroton plusmerkkisenä. Korjaustositteeen viennit:
 
 ![](pienviennit.png)
 

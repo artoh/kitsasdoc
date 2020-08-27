@@ -7,8 +7,10 @@
 ![](tositteet.png)
 
 - **Tositteet** -välilehdellä näet kirjanpitoon tallennetut tositteet
-- **Saapuneet** -välilehdellä ovat Saapuneiden kansio -toiminnalla lisätyt tositteet
 - **Luonnokset** -välilehdellä ovat luonnoksina tallennetut tositteet
+- **Viennit** -välilehdellä voit selata kirjanpidon vientejä
+- **Saapuneet** -välilehdellä ovat paikalliseen kirjanpitoon noudetut verkkolaskut
+
 
 Rajaa selattavien tositteiden aikaväli ja halutessasi tositetyyppi.
 
@@ -34,7 +36,7 @@ kirjattu.
 
 ## Porautuminen aloitusnäytöltä
 
--- tähän uusi kuvakaappaus --
+![Aloitusruutu](alkuruutu.png)
 
 Aloitusruudun saldoluettelon tilinnumerot ovat linkkejä, joita napsauttamalla näet luettelon kyseiselle tilille kirjatuista vienneistä.
 

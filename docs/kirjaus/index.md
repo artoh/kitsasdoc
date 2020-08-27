@@ -15,8 +15,8 @@
 
 Tyyppi    | Käyttötarkoitus
 ----------|-----------------------
-Meno      | Ostolaskut ja muut menotositteet
-Tulo      | Myyntilaskut ja muut tulotositteet
+Meno      | Ostolaskut ja muut menotositteet. Myös ostojen hyvityslaskut.
+Tulo      | Myyntilaskut ja muut tulotositteet. Myös myyntien hyvityslaskut.
 Kululasku | Työntekijän (tms.) omalla rahallaan ostaman yritykselle kuuluvan menon kulut korvataan hänelle jälkikäteen
 Siirto    | Rahoitustapahtuma, kuten tilillepano, tililtäotto, laskun maksu tms. jossa raha siirtyy kahden kirjanpitotilin välillä. Pankkitilin tapahtumia tiliotteelta kirjattaessa käytä kuitenkin Tiliote-tositetyyppiä.
 Tiliote   | Pankkitilin tapahtumien kirjaaminen tiliotteelta. Tiliotteelta voidaan kirjata laskujen maksamisen lisäksi arvonlisäverottomia tuloja ja menoja.
@@ -72,6 +72,8 @@ Yllä olevassa tositetunnisteessa **OL 1 / 18**
 
 Kirjausikkunan oikean alakulman valikosta löytyvät
 
+* **Siirry tositteeseen** <kbd>Ctrl</kbd>+<kbd>G</kbd>
 * **Tulosta tosite** <kbd>Ctrl</kbd>+<kbd>P</kbd>
+* **Kopioi uuden pohjaksi** <kbd>Ctrl</kbd>+<kbd>T</kbd>
 * **Poista tosite**
 * **Tyhjennä viennit**

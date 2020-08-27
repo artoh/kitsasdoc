@@ -28,6 +28,9 @@ Valitse, minne Kitsaan kirjanpito tallennetaan. Ole huolellinen kirjanpidon varm
 
 ## Tarkista asetukset ja kirjanpito
 
+!!! warning "Tarkasta kirjanpitosi"
+    Tarkasta ennen käytön aloittamista, että kirjanpitosi on siirtynyt virheettömästi.
+
 Kitsas pystyy siirtämään lähes kaikki Kitupiikissä olleet asetukset. Tarkista kuitenkin, että kirjanpidot asetukset ovat oikein. Tarkastele myös tilien saldoja ja kirjausten määriä, jotta kaikki kirjaukset ovat siirtyneet oikein.
 
 !!! info "Tilinumeroiden muunto"

@@ -55,4 +55,12 @@ Lähetämme kerralla vuoden 2020 jäsenmaksun kaikille yhdistyksen jäsenille.
 #### Tilinpäätöksen laatiminen
 <iframe width="840" height="472" src="https://www.youtube.com/embed/YFeb9-CZF2g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Laatimme muutamassa minuutissa Lätäkön Uimaseuran tilinpäätöksen Kitsaan ohjatun toiminnon avulla.
+Laadimme muutamassa minuutissa Lätäkön Uimaseuran tilinpäätöksen Kitsaan ohjatun toiminnon avulla.
+
+## Yrityksen kirjanpito
+
+#### Arvonlisäverolliset kirjaukset ja alv-ilmoitus
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/AZBj1D_jBbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Teemme erilaisia arvonlisäverollisia myynti- ja ostokirjauksia sekä laadimme lopuksi arvonlisäveroilmoituksen.

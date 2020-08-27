@@ -4,7 +4,7 @@ Jos lähetettyä laskua tulee tarve korjata, laaditaan laskusta hyvityslasku. Va
 
 ![](hyvityslasku.png)
 
-Ohje näyttää oletuksena koko alkuperäisen laskun miinusmerkkisenä. Jos hyvität vain osan laskua, tee laskulle tarpeelliset muutokset.
+Luettelo näyttää oletuksena koko alkuperäisen laskun miinusmerkkisenä. Jos hyvität vain osan laskua, tee laskulle tarpeelliset muutokset.
 
 ## Hyvityslaskun malli
 

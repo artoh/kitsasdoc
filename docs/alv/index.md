@@ -1,7 +1,10 @@
 # Arvonlisävero
 
+!!! tip ""
+   [<span class="fa fa-youtube"></span> Video arvonlisäverollisista kirjauksista ja alv-ilmoituksen laatimisesta](https://youtu.be/AZBj1D_jBbg)   
+
 !!! warning "Koodit kohdalleen"
-Arvonlisäveron käsittely perustuu kirjauksiin liittyviin ohjaustietoihin (eli alv-laji, alv-prosentti ja kirjauksen tyyppikoodi). Väärät alv-koodit johtavat virheelliseen alv-ilmoitukseen. Suosittelemme tulo- ja menokirjausten tekemistä Tulo- ja menotositteina, ei käsin tiliruudukolle kirjaamalla.
+    Arvonlisäveron käsittely perustuu kirjauksiin liittyviin ohjaustietoihin (eli alv-laji, alv-prosentti ja kirjauksen tyyppikoodi). Väärät alv-koodit johtavat virheelliseen alv-ilmoitukseen. Suosittelemme tulo- ja menokirjausten tekemistä Tulo- ja menotositteina, ei käsin tiliruudukolle kirjaamalla.
 
 Kitsaan tapa käyttää ohjaustietoja vaatii usein vähän totuttelua, sillä monilla muilla ohjelmilla kirjaukset tehdään yksinomaan eri tilejä käyttäen. Kitsaan menettelystä on kuitenkin omat etunsa
 
@@ -14,7 +17,7 @@ Kitsaan tapa käyttää ohjaustietoja vaatii usein vähän totuttelua, sillä mo
 Kirjanpitovelvollinen määritellään arvonlisäverovelvolliseksi [Perusvalinnoista](/maaritykset/perusvalinnat). Jos yritys ei ole alv-velvollinen, ei arvonlisäveroon liittyviä valintoja näytetä kirjauksissa eikä määrityksissä.
 
 !!! note "Arvonlisäverovelvollisuus"
-Arvonlisäverovelvolliseksi on hakeuduttava, jos tilikauden liikevaihto voi ylittää 10 000 euroa. Alarajahuojennuksen takia hakeutuminen kannattaa yleensä pienemmälläkin liikevaihdolla. Yleishyödyllinen toiminta on arvonlisäverotonta, eli useimpien yhdistysten tarvitsee maksaa arvonlisäveroa vain, jos ne harjoittavat huomattavaa liiketoimintaa. Katso [Verohallinnon ohje arvonlisäverotuksesta](https://www.vero.fi/yritykset-ja-yhteisot/tietoa-yritysverotuksesta/arvonlisaverotus/).
+    Arvonlisäverovelvolliseksi on hakeuduttava, jos tilikauden liikevaihto voi ylittää 10 000 euroa. Alarajahuojennuksen takia hakeutuminen kannattaa yleensä pienemmälläkin liikevaihdolla. Yleishyödyllinen toiminta on arvonlisäverotonta, eli useimpien yhdistysten tarvitsee maksaa arvonlisäveroa vain, jos ne harjoittavat huomattavaa liiketoimintaa. Katso [Verohallinnon ohje arvonlisäverotuksesta](https://www.vero.fi/yritykset-ja-yhteisot/tietoa-yritysverotuksesta/arvonlisaverotus/).
 
 ## ALV-välilehti
 

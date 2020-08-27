@@ -1,10 +1,10 @@
 # Verkkolaskut
 
 !!! note "Vain tilaajille"
-Verkkolaskutoiminto hyödyntää Kitsas Oy:n palvelinta, ja on käytettävissä vain maksullisten tilausten sekä kaikkien pilveen tallennettujen kirjanpitojen yhteydessä.
+    Verkkolaskutoiminto hyödyntää Kitsas Oy:n palvelinta, ja on käytettävissä vain maksullisten tilausten sekä kaikkien pilveen tallennettujen kirjanpitojen yhteydessä.
 
 !!! note "Vain yritysten Finvoice-verkkolaskut"
-Kitsas ei toistaiseksi tue kuluttajien verkkolaskuja
+    Kitsas ei toistaiseksi tue kuluttajien verkkolaskuja
 
 ![](verkkolasku.png)
 
@@ -13,7 +13,7 @@ Kitsas ei toistaiseksi tue kuluttajien verkkolaskuja
 ![](paikallinen.png)
 
 !!! note "Kirjautuminen vaaditaan"
-Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi
+    Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi
 
 Kun laskutuksessa lähetät verkkolaskun, muodostaa Kitsas verkkolaskusta xml-tiedoston ja tallentaa sen valitsemaasi hakemistoon. Sinun on itse huolehdittava tiedoston lataamisesta verkkolaskuoperaattorillesi.
 

@@ -13,10 +13,10 @@ Uusi kirjanpito aloitetaan **Aloita**-välilehden **Uusi kirjanpito**-napista.
 
 ![](1omapilvi.png)
 
-Ensimmäisellä näytöllä valitset, tallennetaanko kirjanpito paikallisesti vai pilveen Kitsaan suomalaiselle palvelimelle.
+Ensimmäisellä näytöllä valitset, tallennetaanko kirjanpito paikallisesti vai Kitsaan palvelimelle. Kitsaan palvelin sijaitsee Suomessa ja varmuuskopioidaan automaattisesti päivittäin.
 
-!!! success "Palvelu tulossa"
-    Pilvipalvelu tulee saatavalla vuoden 2020 alkupuoliskolla.
+!!! warning "Huolehdi paikallisen kirjanpidon varmuuskopioinnista"
+    Omalle tietokoneelle tallennettaessa sinun pitää itse huolehtia kirjanpitosi varmuuskopioinnista. Kirjanpidosta pitäisi olla aina toimiva varmuuskopio myös toisella tietovälineellä.  
 
 
 ## Harjoitus vai todellinen?
@@ -28,7 +28,7 @@ Seuraavaksi valitaan, oletko aloittamassa todellista kirjanpito vai harjoittelem
 Harjoittelutilassa kaikkiin tulosteisiin tulostuu *HARJOITUS*-teksti, joten ne erottuvat oikeasta kirjanpitoaineistosta. Harjoittelutilassa voit myös tulostaa laskuja haluamillasi päivämäärillä sekä nopeuttaa ajan kulumista jolloin saat näkyviin tilinpäätökseen ja arvonlisäveroon liittyviä ilmoituksia.
 
 !!! tip "Kokeile ensin"
-    Ennen varsinaisen kirjanpidon aloittamista kannattaa Kitupiikkiä kokeilla harjoittelutilassa.
+    Ennen varsinaisen kirjanpidon aloittamista kannattaa Kitsasta kokeilla harjoittelutilassa.
 
 ## Tilikartta
 
@@ -42,6 +42,7 @@ Tilikartta   | Kuvaus
 ------------------|-------------------------
 Elinkeintotoiminta  | Tilikartta yritystoimintaa varten. Yritysmuotoina elinkeinonharjoittaja, avoin yhtiö, kommandiittiyhtiö, osuuskunta, ja osakeyhtiö.
 Yhdistys | Tilikartta aatteelliselle yhdistykselle ja säätiölle. Tuloslaskelma on yhdistyskaavan mukainen.
+Asunto-osakeyhtiö | Tilikartta asunto-osakeyhtiöille. Tuloslaskelma on kiinteistökaavan mukainen.
 
 Voit myöhemmin lisätä, muokata ja poistaa käytössä olevia tilejä samoin kuin
 raporttien ja tilinpäätöksen malleja.
@@ -58,7 +59,7 @@ Lisäksi kannattaa syöttää pankkitilin (ensisijainen käyttötili) tilinumero
 sitä käytetään myös maksujen ja tiliotteiden kohdistamiseen. Tilinumeron voi syöttää myöhemmin
 tilin tietoihin [tilikartassa](/maaritykset/tilikartta).
 
-Valittava **yritysmuoto** vaikuttaa siihen, mitä tilejä kirjanpidossa on näkyvillä. Samoin **"tilikartan laajuus** vaikuttaa näkyvillä olevien tilien määrään: Elinkeinotoiminnan tilikartassa on 866 tiliä ja yhdistystilikartalla 339 tiliä. Useimmat yritykset ja yhdistykset tarvitsevat näistä tileistä on pientä osaa - laajuusvalinnan mukaan suurin osa tileistä piilotetaan käyttäjältä.
+Valittava **yritysmuoto** vaikuttaa siihen, mitä tilejä kirjanpidossa on näkyvillä. Samoin **tilikartan laajuus** vaikuttaa näkyvillä olevien tilien määrään: Elinkeinotoiminnan tilikartassa on 866 tiliä ja yhdistystilikartalla 339 tiliä. Useimmat yritykset ja yhdistykset tarvitsevat näistä tileistä on pientä osaa - laajuusvalinnan mukaan suurin osa tileistä piilotetaan käyttäjältä.
 
 Voit myöhemmin vaihtaa tilikartan laajuutta tai ottaa yksittäisen tilin käyttöön. Tehdessäsi kirjauksia voit myös tilapäisesti siirtyä selaamaan koko tilivalikoimaa.
 
@@ -67,7 +68,7 @@ Voit myöhemmin vaihtaa tilikartan laajuutta tai ottaa yksittäisen tilin käytt
 
 ![](5tilikausi.png)
 
-Anna tiedot ensimmäisestä Kitupiikillä pidettävästä tilikaudesta. Koska tilinpäätökseen tulostetaan vertailutiedot myös edellisestä tilikaudesta, anna myös edellisen tilikauden
+Anna tiedot ensimmäisestä Kitsaalla pidettävästä tilikaudesta. Koska tilinpäätökseen tulostetaan vertailutiedot myös edellisestä tilikaudesta, anna myös edellisen tilikauden
 päivämäärät.
 
 Edellisen tilikauden tiedot syötetään viimeisimmän tilinpäätöksen tilikohtaisesta
@@ -96,17 +97,14 @@ Voit myös muodostaa oman tositesarjan kaikille käteiskuiteille.
 
 Tallentaessasi kirjanpidon omalle koneelle valitse tiedostonnimi ja tallennussijainti. Tähän tiedostoon tallennetaan koko kirjanpito kaikkine liitteineen niin, että kirjanpidon voi siirtää tai varmuuskopioida kopioimalla tämän yhden tiedoston.
 
-Kirjanpitotiedoston lisäksi samaan hakemistoon luodaan myöhemmin .arkisto-päätteinen hakemisto, jonne kirjanpidon sähköinen arkisto tallennetaan.
-
 !!! warning "Huolehdi varmuuskopioinnista"
     Huolehdi kirjanpitosi varmuuskopioinnista! Kirjanpidosta tulisi olla aina varmuuskopio toisella tietovälineellä!
 
 !!! note "USB-muisti on hidas"
     Vältä kirjanpidon tallentamista USB-muistitikulle, sillä sen käsittely on hidasta.    
 
-!!! tip "Kirjanpito pilvessä"
-    Voit tallettaa kirjanpidon sellaiseen hakemistoon, joka synkronoidaan automaattisesti pilvipalveluun. Muista kuitenkin, että mikäli esimerkiksi asiakasrekisterissä on GDPR:n mukaisia henkilötietoja,  
-    niin niiden sijoittaminen EU:n ulkopuolella sijaitsevalla palvelimella voi olla ongelmallista.
+!!! warning "Kirjanpito pilvessä"
+    Ota tietosuojamääräykset huomioon, jos harkitset kirjanpitosi sijoittamista pilvipalveluun synkronoitavaan hakemistoon. Jos esimerkiksi asiakasrekisterissä on GDPR:n mukaisia henkilötietoja, niin niiden sijoittaminen EU:n ulkopuolella sijaitsevalla palvelimella voi olla laitonta.
 
     Kitsas Oy tarjoaa mahdollisuuden tallentaa kirjanpito Kitsaan omalla pilvipalvelulla Suomessa sijaitsevalle palvelulle, jossa tietoturvasta on huolehdittu GDPR:n mukaisesti. Kitsaan pilvipalvelu mahdollistaa myös useamman samanaikaisen käyttäjän.
 

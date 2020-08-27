@@ -15,12 +15,12 @@ Aloita kirjaaminen aina lisäämällä mahdollinen sähköinen tosite.
 | Käteinen          | Lasku kirjataan **maksuperusteisesti** käteistililtä.                                                                           | Maksupäivä                          |
 | Pankkitili        | Lasku kirjataan **maksuperusteisesti** pankkitililtä.                                                                           | Maksupäivä                          |
 | Luottokortti      | Lasku kirjataan luottokorttivelkojen tilille.                                                                                   | Laskun päivämäärä tai toimituspäivä |
-| Hyvityslasku      | Aiemmasta laskusta kirjattava hyvitys (valitse hyvitettävä lasku näkyviin tulevasta listasta). Kirjaa hyvitys miinusmerkkisenä. |  Hyvityslaskun päivämäärä           |
+| Hyvityslasku      | Aiemmasta laskusta kirjattava hyvitys. Valitse kohdassa **Tase-erä** aiemman laskut tiedot ja kirjaa hyvitys miinusmerkkisenä. |  Hyvityslaskun päivämäärä           |
 | Siirtovelka       | Käytetään, kun meno jää tilinpäätöksessä siirtovelkoihin.                                                                       | Toimituspäivä                       |
 | Kaikki vastatilit | Valitse vastatili ja tarvittaessa erä kaikkien tilien luettelosta.                                                              |
 
 !!! info "Laskun lisätiedot"
-Toimittajan tiedot, viitteen ja eräpäivän voit jättää tyhjäksi, ellet halua seurata laskujen maksamista ohjelmaan integroidussa reskontrassa. Tietoja käytetään myös maksujen automaattisessa kohdentamisessa laskuille.
+    Toimittajan tiedot, viitteen ja eräpäivän voit jättää tyhjäksi, ellet halua seurata laskujen maksamista ohjelmaan integroidussa reskontrassa. Tietoja käytetään myös maksujen automaattisessa kohdentamisessa laskuille.
 
 ## Tulokirjauksen maksutavat
 
@@ -29,11 +29,12 @@ Toimittajan tiedot, viitteen ja eräpäivän voit jättää tyhjäksi, ellet hal
 | Lasku             | Myyntilasku kirjataan **lasku- tai suoriteperusteisesti** myyntisaamisiin. Laskun maksu kirjataan myöhemmin erikseen. | Laskun päivämäärä tai toimituspäivä |
 | Käteinen          | Lasku kirjataan **maksuperusteisesti** käteistililtä.                                                                 | Maksupäivä                          |
 | Pankkitili        | Lasku kirjantaan **maksuperusteisesti** pankkitililtä.                                                                | Maksupäivä                          |
+| Hyvityslasku      | Aiemmasta laskusta kirjattava hyvitys. Valitse kohdassa **Tase-erä** aiemman laskut tiedot ja kirjaa hyvitys miinusmerkkisenä. |  Hyvityslaskun päivämäärä   
 | Siirtosaaminen    | Käytetään, kun tulo jää tilinpäätöksessä siirtovelkoihin.                                                             | Toimituspäivä                       |
 | Kaikki vastatilit | Valitse vastatili ja tarvittaessa erä kaikkien tilien luettelosta.                                                    |
 
 !!! note "Maksutapojen muokkaaminen"
-Käytössä olevia maksutapoja voit muokata ohjelman asetuksista, jos käytössä on esimerkiksi usemapi maksuliikennetili.
+    Käytössä olevia maksutapoja voit muokata ohjelman asetuksista, jos käytössä on esimerkiksi usemapi maksuliikennetili.
 
 ## Asiakas / Toimittaja
 
@@ -42,7 +43,7 @@ Käytössä olevia maksutapoja voit muokata ohjelman asetuksista, jos käytöss�
 Jos asiakas/toimittaja on jo Kitsaan rekisterissä, voit valita sen alasvetovalikosta. Voit myös kirjoittaa nimen tai Y-tunnuksen. Nimikentän vieressä olevasta kuvakkeesta pääset muokkaamaan tietoja.
 
 !!! info "Asiakas- ja toimittajarekisteri"
-Kitsas käyttää yhdistettyä asiakas- ja toimittajarekisteriä, jossa on sekä asiakkaiden että toimittajien tiedot. Tämän takia myös toimittajien tiedoissa on paikka laskutustavalle ja -kielelle. Osakeyhtiöille Kitsas hakee perustiedot Yritys- ja yhteisötietojärjestelmästä Y-tunnuksen perusteella.
+    Kitsas käyttää yhdistettyä asiakas- ja toimittajarekisteriä, jossa on sekä asiakkaiden että toimittajien tiedot. Tämän takia myös toimittajien tiedoissa on paikka laskutustavalle ja -kielelle. Osakeyhtiöille Kitsas hakee perustiedot Yritys- ja yhteisötietojärjestelmästä Y-tunnuksen perusteella.
 
 ## Kirjanpitotilin valitseminen
 
@@ -58,7 +59,7 @@ Voit valita tilin kirjoittamalla tilin numeron (tai osan siitä). Vaihtoehtoises
 
 ![](alv.png)
 
-Käytössä olevat alv-lajit on esitelty ![kappaleessa Arvonlisäverolajit](../../alv/#arvonlisaverolajit)
+Käytössä olevat alv-lajit on esitelty kappaleessa [Arvonlisäverolajit](../../alv/#arvonlisaverolajit)
 Verollisessa kirjauksessa voit syöttää kokonaismäärän (brutto) tai verottoman määrän (netto).
 
 ## Jaksotus
@@ -67,9 +68,11 @@ Verollisessa kirjauksessa voit syöttää kokonaismäärän (brutto) tai verotto
 
 Jaksotuksella voit tehdä kirjauksia, jotka kuuluu jaksottaa tilinpäätöksen yhteydessä tilikaudelta toiselle. Jaksotuskirjaukset tehdään vasta tilinpäätöksen yhteydessä, joten niitä ei ole huomioitu kesken tilikauden tulostettavassa tuloslaskelmassa tai taseessa.
 
-!!! note "Esimerkkitilanteita, kun tilikausi on kalenterivuosi" - Jäsen maksaa vuoden 2020 jäsenmaksun 10.11.2019. - Yhdistykselle on myönnetty avustusta 1.11.2019 järjestettyyn tapahtumaan. Avustus maksetaan 7.1.2020. - Ohjelmistoyritys laskuttaa 15.9.2019 ohjelmiston ylläpitomaksun kaudelle 1.7.2019 - 30.6.2020.
-
-    Kirjausesimerkkejä jaksotuksesta [Tilinpäätös-osan jaksotusohjeessa](../../tilinpaatos/jaksotukset)
+!!! note "Esimerkkitilanteita, kun tilikausi on kalenterivuosi"
+    - Jäsen maksaa vuoden 2020 jäsenmaksun 10.11.2019.
+    - Yhdistykselle on myönnetty avustusta 1.11.2019 järjestettyyn tapahtumaan. Avustus maksetaan 7.1.2020.
+    - Ohjelmistoyritys laskuttaa 15.9.2019 ohjelmiston ylläpitomaksun kaudelle 1.7.2019 - 30.6.2020.
+    - Kirjausesimerkkejä jaksotuksesta [Tilinpäätös-osan jaksotusohjeessa](../../tilinpaatos/jaksotukset)
 
 ## Kohdennukset
 

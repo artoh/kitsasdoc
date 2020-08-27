@@ -1,5 +1,9 @@
 # Arvonlisäveroilmoitus
 
+!!! tip ""
+   [<span class="fa fa-youtube"></span> Video arvonlisäverollisista kirjauksista ja alv-ilmoituksen laatimisesta](https://youtu.be/AZBj1D_jBbg)   
+
+
 Ohjelma muistuttaa aloitusikkunassa, kun arvonlisäveroilmoituksen eräpäivä lähestyy
 
 ![](ilmonappi.png)
@@ -13,14 +17,14 @@ Kitsas esittää Alv-laskelman, jossa on kausiveroilmoituksessa arvolisäveron o
 Laskelman pohjalta tehdään kirjaus, jossa alv-velka ja alv-saatava yhdistetään ja kirjataan **Verovelat**-tilille. Samalle tilille kirjataan myös muut oma-aloitteisesti maksettavat verot, kuten ennakonpidätys ja työnantajamaksut.
 
 !!! note "Verovelat-tili"
-    Verovelat-tilille kirjataan kaikki oma-aloitteiset verot, jotka on ilmoitettu verottajalle mutta ei vielä maksettu. Tilikauden aikana myös palautukset kirjataan miinusmerkkisinä Verovelkoihin, mutta tilinpäätöstoiminto kirjaa ne kuitenkin tilinpäätökseen Verosaamisina.
+    Verovelat-tilille kirjataan kaikki oma-aloitteiset verot, jotka on ilmoitettu verottajalle mutta ei vielä maksettu. Ellei **Asetusten** välilehdellä **Verojen maksu** ole valintaa **Kirjaa arvonlisäveron palautus verosaatavien tilille**, niin tilikauden aikana myös palautukset kirjataan miinusmerkkisinä Verovelkoihin, mutta tilinpäätöstoiminto kirjaa ne kuitenkin tilinpäätökseen Verosaamisina.
 
 
 Tilitykseen liittyy erittely, jossa kirjauksia voi seurata aina tositteisiin saakka. Tilitys avautuu alv-sivun **Näytä tilitys**-napista. Se tallentuu myös liitteeksi alv-tilitysvientiin ja siten myös sähköiseen arkistoon.
 
 ## Arvonlisäveron maksaminen
 
-Kitupiikissä ei ole koneellista tietojen siirtoa. Tarkista Kitupiikin laatima verolaskelma ja tee ilmoitus [OmaVero](https://omavero.fi/)-palvelussa.
+Kitsaassa ei ole koneellista tietojen siirtoa verottajalla. Tarkista Kitsaan laatima verolaskelma ja tee ilmoitus [OmaVero](https://omavero.fi/)-palvelussa.
 
 ![](omavero.png)
 
@@ -35,7 +39,7 @@ Maksa verot OmaVero-palvelussa tai verottajan antamalla viitenumerolla. Veron ma
 
 ## Arvonlisäveron alarajahuojennus
 
-Arvonlisäverosta saa [alarajahuojennusta](https://www.vero.fi/yritykset-ja-yhteisot/tietoa-yritysverotuksesta/arvonlisaverotus/arvonlisaveron_alarajahuojennu/), jos vuoden liikevaihto ilman alv:tä on alle 30 000 euroa. Kitupiikki tekee tilikauden tai vuoden viimeiseen arvonlisäveroilmoituksen myös laskelman alarajahuojennuksesta.
+Arvonlisäverosta saa [alarajahuojennusta](https://www.vero.fi/yritykset-ja-yhteisot/tietoa-yritysverotuksesta/arvonlisaverotus/arvonlisaveron_alarajahuojennu/), jos vuoden liikevaihto ilman alv:tä on alle 30 000 euroa. Kitsas tekee tilikauden tai vuoden viimeiseen arvonlisäveroilmoituksen myös laskelman alarajahuojennuksesta.
 
 ![](huojennus.png)
 

@@ -37,7 +37,7 @@ Tee jaksotukset **Kirjaa jaksotukset** -painikkeella. Painike ei ole näkyvissä
 !!! note "Muista olennaisuusperiaate"
     Yhdistyksen ei tarvitse välttämättä jaksottaa tällaista menoa.
 
-    Esimerkiksi tietokoneohjelmiston ylläpitopalvelua tarjoavan tai lehtitilauksia myyvät yrityksen on kuitenkin jaksotettava tulo vastaavalla tavalla.
+    Esimerkiksi tietokoneohjelmiston ylläpitopalvelua tarjoavan tai lehtitilauksia myyvän yrityksen on kuitenkin jaksotettava tulo vastaavalla tavalla.
 
 ![](pitopalvelu.png)
 
@@ -49,17 +49,15 @@ Yhdistykselle myönnetään syksyllä 2019 avustus tapahtumaan, joka järjestet�
 
 ### Esimerkkien jaksotuskirjaukset
 
-![](jaksotus.png)
+#### Tilinpäätöstyökalun jaksotusnäkymä
+![](jaksotus.png)  
 
-Tilinpäätöstyökalun jaksotusnäkymä
+#### Jaksotuskirjaukset 31.12.
+![](jaksopaatos.png)  
 
-![](jaksopaatos.png)
+#### Jaksotusten purku 1.1.
+![](jaksoavaus.png)  
 
-Jaksotuskirjaukset 31.12.
-
-![](jaksoavaus.png)
-
-Jaksotusten purku 1.1.
 
 !!! note "Tilikausien oltava avoimina"
     Automaattisia jaksotuskirjauksia voi tehdä vain silloin, kun tilinpäätöstä ei ole vielä laadittu. Jos esimerkiksi myönnettyä avustusta ei ole maksettu vielä silloin, kun tilinpäätöstä aloitetaan laatimaan, on avustus kirjattava siirtosaamiseksi ja kuitattava aikanaan siirtosaamisten tililtä.

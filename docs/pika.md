@@ -7,16 +7,16 @@ Näppäin   |  Toiminto
 ----------|----------
 <kbd>Home</kbd> | Aloitus-välilehdelle
 <kbd>F1</kbd> | Näyttää internet-selaimessa ohjeen
-<kbd>Ctrl</kdb>+<kbd>N</kdb> | Uuden tositteen kirjaus
+<kbd>Ctrl</kbd>+<kbd>N</kdb> | Uuden tositteen kirjaus
 <kbd>Ctrl</kbd>+<kbd>W</kdb> | Avaa uuden tositteen kirjauksen uudessa ikkunassa
 <kbd>F3</kdb> | Tositteiden ja kirjausten selaus
 <kbd>Shift</kbd>+<kbd>F3</kdb> | Avaa selauksen uudessa ikkunassa
 <kbd>F4</kdb> | Laskutus
 <kbd>Shift</kbd>+<kbd>F4</kdb> | Uusi lasku
-<kbd>Ctrl</kdb>+<kbd>5</kdb> | Raportit
-<kbd>Ctrl</kdb>+<kbd>6</kbd> | Tilikaudet
-<kbd>Ctrl</kdb>+<kbd>7</kbd> | Arvonlisävero
-<kbd>Ctrl</kdb>+<kbd>8</kbd> | Määritykset
+<kbd>Ctrl</kbd>+<kbd>5</kdb> | Raportit
+<kbd>Ctrl</kbd>+<kbd>6</kbd> | Tilikaudet
+<kbd>Ctrl</kbd>+<kbd>7</kbd> | Arvonlisävero
+<kbd>Ctrl</kbd>+<kbd>8</kbd> | Määritykset
 <kbd>F8</kbd> | Kirjaa [kirjattavien kansion](/maaritykset/inbox) ensimmäinen tosite <span class=ver>1.3<span class=selite>Kitupiikin versiosta 1.3 lähtien</span></span>
 <kbd>Ctrl</kbd>+<kbd>G</kdb> | Siirry tositteeseen tositenumerolla
 

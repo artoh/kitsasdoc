@@ -9,9 +9,9 @@ Käyttöoikeudet-sivulla voit antaa kirjanpitoosi käyttöoikeuksia muille käyt
 
 ## Uuden käyttäjän lisääminen
 
-Käyttäjän on ensin itse rekisteröidyttävä Kitsaan pilveen. Ilmainen käyttäjätunnus ilman maksullisia tilauksia riittää.
+Syötä **sähköpostiosoite**-kenttään lisättävän käyttäjän sähköpostisoite.
 
-Syötä **sähköpostiosoite**-kenttään se sähköpostiosoite, jolla käyttäjä on rekisteröitynyt. **Lisää**-nappi muuttuu aktiiviseksi, kun syötät järjestelmään rekisteröidyn osoitteen. Paina **Lisää**-nappia.
+Paina **Lisää** nappia, jos lisättävä käyttäjä on jo rekisteröitynyt Kitsaan käyttäjäksi. **Kutsu**-napilla lähetät sähköpostiin kutsun henkilölle, joka ei vielä ole Kitsaan käyttäjä.
 
 Näet nyt alempana käyttäjän nimen ja sähköpostiosoitteen. Valitse käyttäjälle annettavat oikeudet ja paina **Tallenna**.
 
@@ -24,7 +24,7 @@ Käyttäjä näkee tämän kirjanpidon **Pilvi**-välilehdellään, kun hän seu
 
 Valitsemalla käyttäjän nimen listalta pääset muuttamaan hänelle annettuja käyttöoikeuksia. Paina lopuksi **Tallenna**.
 
-Jos poistat käyttäjältä kaikki oikeudet, ei käyttäjää enää näytetä luettelosta eikä käyttäjä voi valita tätä kirjanpitoa.
+Jos poistat käyttäjältä kaikki oikeudet, ei käyttäjää enää näytetä luettelossa eikä käyttäjä voi valita tätä kirjanpitoa.
 
 ## Käyttöoikeudet
 

@@ -4,7 +4,7 @@
 
 ![](budjetti.png)
 
-Kitupiikillä voit määritellä tilikauden bubjetin ja seurata sen toteutumista.
+Kitupiikillä voit määritellä tilikauden budjetin ja seurata sen toteutumista.
 
 Budjetin pääset syöttämään **Tilikaudet**-välilehden **Budjetti**-painikkeesta. Syötä tulot ilman etumerkkiä ja menot miinusmerkkisinä. Budjetin voi jakaa eri kohdennuksille syöttämällä jokaisen kohdennuksen budjetin erikseen: kokonaisbudjetti on kaikkien kohdennusten yhteenlaskettu budjetti.
 
@@ -33,5 +33,5 @@ Jos haluat muuttaa budjettivertailun sarakkeita, valitse **Tuloslaskelma** -rapo
 ![](tulosvertailu.png)
 
 ### Esimerkki toiminnanalojen budjettiseurannasta
-![](alavertailu.png)
+![](alavertailu.png)  
 Huomaa, että tasetileillä ei ole budjettia!

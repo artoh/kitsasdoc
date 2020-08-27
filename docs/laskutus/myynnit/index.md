@@ -28,7 +28,7 @@ Laskun numeron vieressä oleva kuvake esittää laskun tyypin
 Lisäksi luettelossa näkyy tulotositteina ja tiliotteelta kirjattuja tuloja.
 
 !!! note "Myyntilaskut kirjanpidossa"
-Myyntilaskut saavat lasku- ja viitenumeron sekä tulevat osaksi kirjanpito vasta, kun ne toimitetaan asiakkaalle. **Luonnokset** ja **Lähetettävät** -välilehden laskuilla ei ole vielä laskunumeroa (paitsi sellaisilla _Lähetettävät_-välilehden laskuilla, joiden toimittaminen on epäonnistunut).
+    Myyntilaskut saavat lasku- ja viitenumeron sekä tulevat osaksi kirjanpito vasta, kun ne toimitetaan asiakkaalle. **Luonnokset** ja **Lähetettävät** -välilehden laskuilla ei ole vielä laskunumeroa (paitsi sellaisilla _Lähetettävät_-välilehden laskuilla, joiden toimittaminen on epäonnistunut).
 
 ## Myyntien näkymän toiminnot
 
@@ -53,7 +53,7 @@ Ellet ole valinnut uutta laskua lähetettäväksi välittömästä, sijoitetaan 
 Jos laskun lähettäminen epäonnistuu, jää lasku edelleen **Lähetettävät**-välilehdelle.
 
 !!! note "Muista lähettää!"
-Maksumuistutukset sekä ryhmälaskut tallennetaan aina ensin lähetettävät kansioon, ja ne pitää lähettää sieltä erikseen.
+    Maksumuistutukset sekä ryhmälaskut tallennetaan aina ensin lähetettävät kansioon, ja ne pitää lähettää sieltä erikseen.
 
 ### Laskujen lähetystavat
 
