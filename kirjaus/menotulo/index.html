@@ -1073,8 +1073,50 @@
 
 
   <li class="md-nav__item">
+    <a href="../../maaritykset/kayttoliittyma/" title="Käyttöliittymä" class="md-nav__link">
+      Käyttöliittymä
+    </a>
+  </li>
+
+
+        
+          
+          
+          
+
+
+
+  <li class="md-nav__item">
     <a href="../../maaritykset/perusvalinnat/" title="Perusvalinnat" class="md-nav__link">
       Perusvalinnat
+    </a>
+  </li>
+
+
+        
+          
+          
+          
+
+
+
+  <li class="md-nav__item">
+    <a href="../../maaritykset/yhteystiedot/" title="Yhteystiedot" class="md-nav__link">
+      Yhteystiedot
+    </a>
+  </li>
+
+
+        
+          
+          
+          
+
+
+
+  <li class="md-nav__item">
+    <a href="../../maaritykset/liitteet/" title="Liitteiden käsittely" class="md-nav__link">
+      Liitteiden käsittely
     </a>
   </li>
 
@@ -1145,6 +1187,20 @@
   <li class="md-nav__item">
     <a href="../../maaritykset/laskutus/" title="Laskutus" class="md-nav__link">
       Laskutus
+    </a>
+  </li>
+
+
+        
+          
+          
+          
+
+
+
+  <li class="md-nav__item">
+    <a href="../../maaritykset/oletustilit/" title="Oletustilit" class="md-nav__link">
+      Oletustilit
     </a>
   </li>
 
@@ -1241,6 +1297,34 @@
 
 
   <li class="md-nav__item">
+    <a href="../../maaritykset/veronmaksu/" title="Verojen maksu" class="md-nav__link">
+      Verojen maksu
+    </a>
+  </li>
+
+
+        
+          
+          
+          
+
+
+
+  <li class="md-nav__item">
+    <a href="../../maaritykset/palkkatilit/" title="Palkkakirjaustilit" class="md-nav__link">
+      Palkkakirjaustilit
+    </a>
+  </li>
+
+
+        
+          
+          
+          
+
+
+
+  <li class="md-nav__item">
     <a href="../../maaritykset/raportit/" title="Raportit" class="md-nav__link">
       Raportit
     </a>
@@ -1303,7 +1387,7 @@
 
 	<li class="md-nav__item tukilaatikko"><a href="https://kitsas.fi" title="Kotisivu" class="tukilaatikko"><span class="fa fa-home"></span> Kotisivu</a></li>
 
-    <li class="md-nav__item tukilaatikko"><a href="https://kitsas.fi/#lataa" title="Lataa Kitupiikki" class="tukilaatikko"> <span class="fa fa-download"></span> Lataa Kitsas </a></a></li>
+    <li class="md-nav__item tukilaatikko"><a href="https://kitsas.fi/lataa" title="Lataa Kitupiikki" class="tukilaatikko"> <span class="fa fa-download"></span> Lataa Kitsas </a></a></li>
 
     <li class="md-nav__item tukilaatikko"><a href="/tuki/" title="Tuki ja palaute" class="tukilaatikko"></span><span class="fa fa-comments"></span> Käyttäjätuki ja palaute</a></li>
 
@@ -1458,7 +1542,7 @@
 </tr>
 <tr>
 <td>Hyvityslasku</td>
-<td>Aiemmasta laskusta kirjattava hyvitys (valitse hyvitettävä lasku näkyviin tulevasta listasta). Kirjaa hyvitys miinusmerkkisenä.</td>
+<td>Aiemmasta laskusta kirjattava hyvitys. Valitse kohdassa <strong>Tase-erä</strong> aiemman laskut tiedot ja kirjaa hyvitys miinusmerkkisenä.</td>
 <td>Hyvityslaskun päivämäärä</td>
 </tr>
 <tr>
@@ -1475,8 +1559,8 @@
 </table>
 <div class="admonition info">
 <p class="admonition-title">Laskun lisätiedot</p>
-</div>
 <p>Toimittajan tiedot, viitteen ja eräpäivän voit jättää tyhjäksi, ellet halua seurata laskujen maksamista ohjelmaan integroidussa reskontrassa. Tietoja käytetään myös maksujen automaattisessa kohdentamisessa laskuille.</p>
+</div>
 <h2 id="tulokirjauksen-maksutavat">Tulokirjauksen maksutavat<a class="headerlink" href="#tulokirjauksen-maksutavat" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -1503,6 +1587,11 @@
 <td>Maksupäivä</td>
 </tr>
 <tr>
+<td>Hyvityslasku</td>
+<td>Aiemmasta laskusta kirjattava hyvitys. Valitse kohdassa <strong>Tase-erä</strong> aiemman laskut tiedot ja kirjaa hyvitys miinusmerkkisenä.</td>
+<td>Hyvityslaskun päivämäärä</td>
+</tr>
+<tr>
 <td>Siirtosaaminen</td>
 <td>Käytetään, kun tulo jää tilinpäätöksessä siirtovelkoihin.</td>
 <td>Toimituspäivä</td>
@@ -1516,15 +1605,15 @@
 </table>
 <div class="admonition note">
 <p class="admonition-title">Maksutapojen muokkaaminen</p>
-</div>
 <p>Käytössä olevia maksutapoja voit muokata ohjelman asetuksista, jos käytössä on esimerkiksi usemapi maksuliikennetili.</p>
+</div>
 <h2 id="asiakas-toimittaja">Asiakas / Toimittaja<a class="headerlink" href="#asiakas-toimittaja" title="Permanent link">&para;</a></h2>
 <p><img alt="" src="./toimittajarivi.png" /></p>
 <p>Jos asiakas/toimittaja on jo Kitsaan rekisterissä, voit valita sen alasvetovalikosta. Voit myös kirjoittaa nimen tai Y-tunnuksen. Nimikentän vieressä olevasta kuvakkeesta pääset muokkaamaan tietoja.</p>
 <div class="admonition info">
 <p class="admonition-title">Asiakas- ja toimittajarekisteri</p>
-</div>
 <p>Kitsas käyttää yhdistettyä asiakas- ja toimittajarekisteriä, jossa on sekä asiakkaiden että toimittajien tiedot. Tämän takia myös toimittajien tiedoissa on paikka laskutustavalle ja -kielelle. Osakeyhtiöille Kitsas hakee perustiedot Yritys- ja yhteisötietojärjestelmästä Y-tunnuksen perusteella.</p>
+</div>
 <h2 id="kirjanpitotilin-valitseminen">Kirjanpitotilin valitseminen<a class="headerlink" href="#kirjanpitotilin-valitseminen" title="Permanent link">&para;</a></h2>
 <p><img alt="" src="./tilirivi.png" /></p>
 <p>Voit valita tilin kirjoittamalla tilin numeron (tai osan siitä). Vaihtoehtoisesti voit kirjoittaa osan tilin nimestä, jolloin pääset valitsemaan tilin luetteloikkunasta. Ikkunaan pääset myös painamalla kiikarikuvaketta.</p>
@@ -1532,14 +1621,20 @@
 <p><strong>Suosikit</strong>-painikkeella näet vain suosikiksi merkitsemäsi tilit, ja <strong>Kaikki</strong>-painikkeella myös ne tilit, jotka eivät tavallisesti ole käytettävissä valitsemallasi tilikartan laajuudella.</p>
 <h2 id="arvonlisavero">Arvonlisävero<a class="headerlink" href="#arvonlisavero" title="Permanent link">&para;</a></h2>
 <p><img alt="" src="./alv.png" /></p>
-<p>Käytössä olevat alv-lajit on esitelty <img alt="kappaleessa Arvonlisäverolajit" src="./../../alv/#arvonlisaverolajit" />
+<p>Käytössä olevat alv-lajit on esitelty kappaleessa <a href="./../../alv/#arvonlisaverolajit">Arvonlisäverolajit</a>
 Verollisessa kirjauksessa voit syöttää kokonaismäärän (brutto) tai verottoman määrän (netto).</p>
 <h2 id="jaksotus">Jaksotus<a class="headerlink" href="#jaksotus" title="Permanent link">&para;</a></h2>
 <p><img alt="" src="./jaksotusrivi.png" /></p>
 <p>Jaksotuksella voit tehdä kirjauksia, jotka kuuluu jaksottaa tilinpäätöksen yhteydessä tilikaudelta toiselle. Jaksotuskirjaukset tehdään vasta tilinpäätöksen yhteydessä, joten niitä ei ole huomioitu kesken tilikauden tulostettavassa tuloslaskelmassa tai taseessa.</p>
-<p>!!! note "Esimerkkitilanteita, kun tilikausi on kalenterivuosi" - Jäsen maksaa vuoden 2020 jäsenmaksun 10.11.2019. - Yhdistykselle on myönnetty avustusta 1.11.2019 järjestettyyn tapahtumaan. Avustus maksetaan 7.1.2020. - Ohjelmistoyritys laskuttaa 15.9.2019 ohjelmiston ylläpitomaksun kaudelle 1.7.2019 - 30.6.2020.</p>
-<pre><code>Kirjausesimerkkejä jaksotuksesta [Tilinpäätös-osan jaksotusohjeessa](../../tilinpaatos/jaksotukset)
-</code></pre>
+<div class="admonition note">
+<p class="admonition-title">Esimerkkitilanteita, kun tilikausi on kalenterivuosi</p>
+<ul>
+<li>Jäsen maksaa vuoden 2020 jäsenmaksun 10.11.2019.</li>
+<li>Yhdistykselle on myönnetty avustusta 1.11.2019 järjestettyyn tapahtumaan. Avustus maksetaan 7.1.2020.</li>
+<li>Ohjelmistoyritys laskuttaa 15.9.2019 ohjelmiston ylläpitomaksun kaudelle 1.7.2019 - 30.6.2020.</li>
+<li>Kirjausesimerkkejä jaksotuksesta <a href="./../../tilinpaatos/jaksotukset">Tilinpäätös-osan jaksotusohjeessa</a></li>
+</ul>
+</div>
 <h2 id="kohdennukset">Kohdennukset<a class="headerlink" href="#kohdennukset" title="Permanent link">&para;</a></h2>
 <p><img alt="" src="./kohdennusrivit.png" /></p>
 <p>Jos kirjanpidossa on käytössä kohdennukset tai merkkaukset, pääset valitsemaan ne valintalistoilta.</p>
@@ -1626,7 +1721,7 @@ Verollisessa kirjauksessa voit syöttää kokonaismäärän (brutto) tai verotto
             Copyright &copy; 2017-2020 Arto Hyvättinen ja Kitsas Oy
           </div>
         
-        sähköposti <a href="mailto:palaute@kitupiikki.info">palaute@kitupiikki.info</a><br>
+        sähköposti <a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi</a><br>
         powered by
         <a href="http://www.mkdocs.org">MkDocs</a>
         and
