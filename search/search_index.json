@@ -531,6 +531,26 @@
             "title": "J\u00e4rjestelm\u00e4tositteet"
         },
         {
+            "location": "/kirjaus/mallipohja/",
+            "text": "Mallipohjat\n\u00b6\n\n\nVoit tallentaa usein toistuvia tositteita mallipohjiksi, joiden pohjalta on nopea luoda uusia tositteita.\n\n\nMallipohjan luominen\n\u00b6\n\n\n\n\nAloita uuden tositteen tekeminen ja t\u00e4yt\u00e4 tositteet tietoja tavalliseen tapaan.\n\n\nKun olet valmis, valitse oikean alakulman valikosta \nTallenna mallipohjaksi\n.\n\n\n\n\nKaikkien k\u00e4yt\u00f6ss\u00e4\n\n\nJos tallennat kirjanpidon pilveen, ovat mallipohjat kaikkien k\u00e4ytt\u00e4jien n\u00e4ht\u00e4vill\u00e4 ja k\u00e4yttt\u00e4viss\u00e4.\n\n\n\n\nMallipohjan k\u00e4ytt\u00e4minen\n\u00b6\n\n\nJos kirjanpitoon on tallennettu mallipohjia, n\u00e4kyv\u00e4t ne \nUusi tosite\n-n\u00e4kym\u00e4ss\u00e4. Aloita tositteen tekeminen mallin pohjalta valisemalla luettelosta haluamasi mallipohja.",
+            "title": "Mallipohjat"
+        },
+        {
+            "location": "/kirjaus/mallipohja/#mallipohjat",
+            "text": "Voit tallentaa usein toistuvia tositteita mallipohjiksi, joiden pohjalta on nopea luoda uusia tositteita.",
+            "title": "Mallipohjat"
+        },
+        {
+            "location": "/kirjaus/mallipohja/#mallipohjan-luominen",
+            "text": "Aloita uuden tositteen tekeminen ja t\u00e4yt\u00e4 tositteet tietoja tavalliseen tapaan.  Kun olet valmis, valitse oikean alakulman valikosta  Tallenna mallipohjaksi .   Kaikkien k\u00e4yt\u00f6ss\u00e4  Jos tallennat kirjanpidon pilveen, ovat mallipohjat kaikkien k\u00e4ytt\u00e4jien n\u00e4ht\u00e4vill\u00e4 ja k\u00e4yttt\u00e4viss\u00e4.",
+            "title": "Mallipohjan luominen"
+        },
+        {
+            "location": "/kirjaus/mallipohja/#mallipohjan-kayttaminen",
+            "text": "Jos kirjanpitoon on tallennettu mallipohjia, n\u00e4kyv\u00e4t ne  Uusi tosite -n\u00e4kym\u00e4ss\u00e4. Aloita tositteen tekeminen mallin pohjalta valisemalla luettelosta haluamasi mallipohja.",
+            "title": "Mallipohjan k\u00e4ytt\u00e4minen"
+        },
+        {
             "location": "/selaus/",
             "text": "Selaaminen ja etsiminen\n\u00b6\n\n\nSelaa\n-v\u00e4lilehdell\u00e4 p\u00e4\u00e4set selaamaan ja hakemaan jo tehtyj\u00e4 kirjauksia.\n\n\nTositteiden selaaminen\n\u00b6\n\n\n\n\n\n\nTositteet\n -v\u00e4lilehdell\u00e4 n\u00e4et kirjanpitoon tallennetut tositteet\n\n\nLuonnokset\n -v\u00e4lilehdell\u00e4 ovat luonnoksina tallennetut tositteet\n\n\nViennit\n -v\u00e4lilehdell\u00e4 voit selata kirjanpidon vientej\u00e4\n\n\nSaapuneet\n -v\u00e4lilehdell\u00e4 ovat paikalliseen kirjanpitoon noudetut verkkolaskut\n\n\n\n\nRajaa selattavien tositteiden aikav\u00e4li ja halutessasi tositetyyppi.\n\n\nEtsi\n-valinta suodattaa n\u00e4yt\u00f6ll\u00e4 olevista tositteista ne, joiden otsikossa on etsitt\u00e4v\u00e4 teksti.\n\n\nNapsauttamalla rivi\u00e4 p\u00e4\u00e4set katsomaan tai muokkaamaan valittua tositetta.\n\n\nVientien selaaminen\n\u00b6\n\n\n\n\nViennit\n-v\u00e4lilehdell\u00e4 n\u00e4et vientien eli tositteella olevien rivien selaamisen.\nRajaa selattavien vientien aikav\u00e4li. Voit selata yksitt\u00e4isen tilin tapahtumia\nvalitsemalla \nKaikki tilit\n-valinnan tilalle haluamasi tilin.\n\n\nEtsi\n-valinta suodattaa n\u00e4yt\u00f6ll\u00e4 olevista vienneist\u00e4 ne, joiden selitteess\u00e4 on\netsitt\u00e4v\u00e4 teksti.\n\n\nNapsauttamalla rivi\u00e4 p\u00e4\u00e4set katsomaan tai muokkaamaan tositetta, johon vienti on\nkirjattu.\n\n\n-kuvake kohdennussarakkeessa tarkoittaa, ett\u00e4 kyseinen tase-er\u00e4 on \"tasan\" eli myynti- tai ostolasku maksettu kokonaan tai poistettava hankinta poistettu kokonaisuudessaan.\n\n\nPorautuminen aloitusn\u00e4yt\u00f6lt\u00e4\n\u00b6\n\n\n\n\nAloitusruudun saldoluettelon tilinnumerot ovat linkkej\u00e4, joita napsauttamalla n\u00e4et luettelon kyseiselle tilille kirjatuista vienneist\u00e4.\n\n\nPorautuminen arkistossa\n\u00b6\n\n\nS\u00e4hk\u00f6isen arkiston\n raporteista p\u00e4\u00e4set seuraamaan kirjausketjua taseesta ja tilinp\u00e4\u00e4t\u00f6ksest\u00e4 aina yksitt\u00e4isiin tositteisiin saakka.",
             "title": "Selaaminen ja etsiminen"
