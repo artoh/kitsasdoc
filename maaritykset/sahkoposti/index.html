@@ -1332,7 +1332,10 @@
 <p>Jos valitset asetusten tallentamisen <strong>tietokoneen asetuksiin</strong>, sähköpostitilin asetukset ovat tietokonekohtaisia (samoja asetuksia käytetään kaikilla kirjanpidoilla). Jos valitset tallentamisen <strong>kirjanpitokohtaisesti</strong>, syötetään sähköpostiasetukset erikseen jokaiseen kirjanpitoon. Jos kirjanpidolla on useampi käyttäjä, käyttävät he samoja asetuksia.</p>
 <ul>
 <li><strong>Palvelin</strong>: Lähtevän sähköpostin palvelimen osoite, löytyy sähköpostin tai internetyhteyden ohjeista.</li>
-<li><strong>Portti</strong>: Lähtevän sähköpostin portti palvelimella, suojatussa sähköpostissa yleensä 465 ja suojaamattomassa 25.</li>
+<li><strong>Portti</strong>: Lähtevän sähköpostin portti palvelimella</li>
+<li><strong>Suojaamaton yhteys (TCP)</strong>: Viestisi liikkuu täysin salaamattomana, sallittu yleensä vain oman yhtydentarjoajan palvelimelle. Portti 25.</li>
+<li><strong>Salattu yhteys (SSL)</strong>: Viestisi salataan. Portti yleensä 465.</li>
+<li><strong>Suojattu yhteys (STARTTLS)</strong>: Lähtevään sähköpostipalvelimeen muodostetaan suojattu yhteys. Portti yleensä 587. Suositellaan aina mikäli käytettävissä.</li>
 <li><strong>Käyttäjänimi</strong>: Käyttäjänimi palvelimella palveluntarjoajan vaatimassa muodossa</li>
 <li>
 <p><strong>Salasana</strong>: Sähköpostin salasana. Jos Gmailissa käytetään kaksivaiheista varmennusta, tähän syötetään <a href="https://myaccount.google.com/apppasswords">sovellussalasana</a>.</p>
@@ -1344,7 +1347,6 @@
 <p>Kun olet syöttänyt asetukset, paina <strong>Kokeile</strong>-painiketta, joka yrittää lähettää sähköpostin omaan osoitteeseesi. Jos lähetys epäonnistuu, saat siitä ilmoituksen</p>
 <p><img alt="" src="./virhe.png" /></p>
 <p>Tässä tapauksessa käyttäjätunnus tai salasana on väärin.</p>
-<p>Jos lähetys onnistuu, tulee Kokeile-napin vasemmalle puolelle teksti <strong>Sähköposti lähetetty</strong>, ja löydät testiviestin postilaatikostasi.</p>
 <p><strong>Sähköpostilaskun viesti</strong> -kohdassa syötät saateviestin, jonka liitteeksi lasku lähetetään. Voit myös valita, lisätäänkö viestin loppuun <strong>maksutiedot</strong> eli laskun summa, viitenumero, tilinumero sekä virtuaaliviivakoodi.</p>
                 
                   
