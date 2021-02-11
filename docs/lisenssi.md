@@ -1,7 +1,7 @@
 # Lisenssi
 
 Kitupiikki Copyright &copy; Arto Hyvättinen 2017 - 2019 <br/>
-Kitsas Copyright &copy; Arto Hyvättinen ja Kitsas Oy 2019 - 2020
+Kitsas Copyright &copy; Arto Hyvättinen ja Kitsas Oy 2019 - 2021
 
 <strong>Ohjelmalla ei ole mitään takuuta. Tätä ohjelmaa saa käyttää, levittää ja muokata maksuttomasti alempana olevien ehtojen (GNU General Public License version 3) mukaisesti.</strong>
 
@@ -28,6 +28,8 @@ Kitsas Oy:n palveluiden käyttöehdot löytyvät osoitteesta [kitsas.fi/ehdot](h
 [Code-128-font](https://github.com/Holger-Will/code-128-font) lisenssillä [GNU General Public License version 3](https://www.gnu.org/licenses/gpl.html)
 
 [libzip](https://libzip.org) Copyright &copy; Dieter Baron and Thomas Klausner lisenssillä [3-clause BSD license](https://libzip.org/license/)
+
+[SmtpClient](https://github.com/bluetiger9/SmtpClient-for-Qt) Copyright &copy; Tőkés Attila lisenssillä [GNU Lesser General Public License version 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 
 ## Kuvakekirjastoja
 

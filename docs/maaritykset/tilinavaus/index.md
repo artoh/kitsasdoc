@@ -10,7 +10,8 @@ Tilinavauksessa syötetään tilin avaavina saldoina tilien loppusummat edellise
 !!! note "Vain ensimmäiselle tilikaudelle"
     Tilinavaus tehdään vain ensimmäiselle tilikaudelle, joka pidetään Kitupiikillä. Jatkossa ohjelma huolehtii automaattisesti uusien tilikausien tilinavauksista.
 
-Saldot syötetään ilman etumerkkiä (ellei sitten esimerkiksi edellisiltä tilikausilta ole jäänyt alijäämää).
+Vastaava ja vastattava syötetään molemmat ilman etumerkkiä.  
+Tulot syötetään ilman etumerkkiä ja menot miinusmerkkisinä.
 
 Tuloslaskelmaan saldot syötetään tileittäin, koska uuden tilikauden tuloslaskelmaan on merkittävä vertailutiedot edelliseltä tilikaudelta. **Yli/alijäämä** lasketaan tileittäin syötetyistä tiedoista - varmista, että se sekä **Vastaavaa** ja **Vastattavaa** -summat täsmäävät tilinpäätöksen lukemiin.
 

@@ -36,15 +36,13 @@ Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kir
 
 Kun laskutuksessa lähetät verkkolaskun, lähetetään se välittömästi Maventan kautta eteenpäin.
 
-Kitsas ei ilmoita verkkolaskun toimittamisen epäonnistumisesta. Siksi Manventan asetusten kohdasta **laskuilmoitukset** on syytä ottaa käyttöön **Vastaanota ilmoituksia laskujen lähetysvirheistä**
-
 ### Verkkolaskujen vastaanottaminen
 
 Verkkolaskujen noutaminen otetaan käyttöön **Nouda saapuneet laskut**-valinnalla.
 
 Omalle koneelle tallennetuissa kirjanpidoissa saapuneet laskut haetaan ohjelman käynnistyessä. Voit hakea laskut myös verkkolaskuasetusten **Nouda nyt**-painikkeella. Laskut löytyvät **Selaa**-sivun **Saapuneet**-välilehdeltä. Noudetut laskut eivät näy kirjanpidossa ennen kuin ne tallennetaan **Valmis**-painikkeella
 
-Pilveen tallennetuissa kirjanpidoissa saapuneet laskut noudetaan neljä kertaa vuorokaudessa **Saapuneet verkkolaskut**-kiertoon. Voit hakea laskut myös verkkolaskuasetusten **Nouda nyt**-painikkeella.
+Pilveen tallennetussa kirjanpidossa saapuneet laskut saapuvat kirjanpitoon automaattisesti. Laskuluettelossa näet kuvakkeen muuttumisesta myös sen, kun lasku on lähetetty tai kun laskun toimittaminen on epäonnistunut.
 
 Kitsaassa ei toistaiseksi ole suoraa pankkiyhteyttä, vaan sinun on huolehdittava saapuneiden laskujen maksusta esimerkiksi verkkopankkia käyttäen.
 

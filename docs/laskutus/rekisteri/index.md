@@ -14,7 +14,7 @@ Kitsaan yhdistettyyn asiakas- ja toimittajarekisteriin tallennetaan asiakkaiden 
 
 Muodostamalla ryhmiä voit hakea tietoja nopeammin, sekä voit muodostaa nopeasti ryhmälaskuja. Esimerkiksi yhdistys voi muodostaa tietystä laskutettavasta toimintaryhmästä ryhmän.
 
-## Asiakkan/Toimittajan tiedot
+## Asiakkan/Toimittajan valitseminen
 
 ![](../../kirjaus/menotulo/toimittajarivi.png)
 
@@ -28,9 +28,19 @@ Asiakas/toimittajaa valittaessa voit
 
 Nimikentän vieressä olevalla painikkeella pääset muokkaamaan asiakkaan/toimittajan tietoja.
 
+## Asiakkaan/Toimittajan tiedot
+
 ![](tiedot.png)
 
-**Kieli** ja **laskutustapa** ovat oletusvalintoina uusille laskuille. **Pankkitilien** numeroita käytetään myyntilaskujen kohdentamiseen.
+**Kieli** ja **laskutustapa** ovat oletusvalintoina uusille laskuille.  
+**Pankkitilien** numeroita käytetään myyntilaskujen kohdentamiseen.
+
+!!! tip "Tietojen hakeminen"
+    Painamalla nimikentän vieressä olevaa kiikarin kuvaa, haetaan yrityksen tietoja Yritys- ja yhteisötietojärjestelmästä. Jos käytössäsi on Maventan
+    verkkolaskutus, haetaan tietoja myös verkkolaskuosoitteistosta.
+    
+!!! note ""
+    Verkkolasku-välilehti on käytettävissä vasta, kun yritykselle on ensin syötetty y-tunnus.
 
 ## Tietojen tuominen
 

@@ -1,6 +1,8 @@
 # Kitsaan pilvi
 
-Kitsas Oy tarjoaa ohjelmaan liittyviä pilvipalveluita. Palveluista ja hinnotteluista löytyy tietoa sivulta [kitsas.fi](https://kitsas.fi).
+Kitsas Oy tarjoaa ohjelmaan liittyviä pilvipalveluita. Palveluista ja hinnotteluista löytyy tarkempaa tietoa sivulta [kitsas.fi](https://kitsas.fi).
+
+![Kitsaan hinnasto](hinnat.svg)
 
 Palvelussa voit tallentaa kirjanpitosi Kitsas Oy:n Suomessa sijaitsevalle, automaattisesti varmuuskopioitavalle palvelimelle. Pilvessä olevalla kirjanpidolla voi olla useita samanaikaisia käyttäjiä. Saat käyttöösi myös Finvoice-verkkolaskut, kuvatiedostojen tekstintunnistuksen ja tukipalvelut.
 
@@ -11,18 +13,32 @@ Rekisteröityessäsi Kitsaan pilveen aloitat 30 päivän maksuttoman kokeilujaks
 
 ## Rekisteröityminen
 
-Paina **Pilvi**-välilehdellä **Luo käyttäjätunnus**-painiketta. Hyväksyttyäsi käyttöehdot ja syötettyäsi sähköpostiosoitteesi saat sähköpostiisi linkin, jonka avulla voit viimeistellä rekisteröitymisesi.
+Rekisteröityminen tehdään suodaan Kitsas-ohjelmasta.
+
+Paina **Pilvi**-välilehdellä **Luo käyttäjätunnus**-painiketta.
+
+![](uusitunnus.png)
+
+Hyväksyttyäsi [käyttöehdot](https://kitsas.fi/ehdot) ja annettuasi tietosi saat hetken kuluttua sähköpostiisi linkin, jonka avulla pääset asettamaan salasanasi.
 
 ## Kirjautuminen
 
-Kirjaudu **Pilvi**-välilehdellä syöttämällä sähköpostiosoitteesi ja salasanasi.
+Kirjaudu **Pilvi**-välilehdellä syöttämällä sähköpostiosoitteesi ja salasanasi sekä painamalla **Kirjaudu**-nappia.
 
 ![](luettelo.png)
 
 Kirjauduttuasi saat luettelon pilvessä olevista kirjanpidoista, joihin sinulla on käyttöoikeus.
 
-**Tilaa pilvipalvelut!**-painikkeellä voit ottaa käyttöön maksullisen tilauksen, johon sisältyy pilvitallennustilaa sekä tukipalveluita.
+## Tilauksen tekeminen
 
+Myös tilaukset tehdään suoraan Kitsas-ohjelman **Pilvi**-välilehdeltä.
+
+**Tee tilaus**-painikkeella voit ottaa käyttöön maksullisen tilauksen, johon sisältyy pilvitallennustilaa sekä tukipalveluita.
+
+![](tilaus.png)
+
+Tilaukseesi liittyvät ominaisuudet ovat käytettävissä heti, kun olet tehnyt tilauksen.
+Voit tilata suoraan ohjelmasta myös tarvitsemasi lisäkirjanpidot. Lisätietoja saat sähköpostilla myynti@kitsas.fi
 
 ## Kirjanpidon jakaminen
 

@@ -2,36 +2,56 @@
 
 ![](myyntiraportti.png)
 
-Käytä tositetyyppiä **Muu** kirjataksesi tositteen käsin käyttäen tiliruudukkoa.
+Käytä tositetyyppiä **Muu** kirjataksesi tosite käsin tiliruudukkoa käyttäen.
+
+Tositetyyppiä tarvitset kun teet monimutkaisempia kirjauksia, joissa on useita vientejä, esimerkiksi
+- kassan myyntiraportit eri maksutavoista
+- monimutkaisemmat palkkatositteet
+- osingon maksuun liittyvät kirjaukset
+- useimmat yhtiön perustamiseen liittyvät kirjaukset
+
+Periaatteessa voisit tehdä kaikki kirjaukset tositetyypillä **Muu**, mutta todennäköisesti haluat kirjata useimmat tositteet tositteen tyypin mukaisella kirjausnäkymällä.
+
+!!! note "Tositesarjat"
+    Jos käytät eri tositesarjoja, voit valita muulle toistteelle tositesarjan vapaasti.
+
+## Kirjaaminen suoraan ruudukkoon
 
 Sarakkeessa **Tili** voit syöttää tilinumeron tai kirjoittaa tilin alkua.
 Jos käytät kohdennuksia, pääset **Kohdennus**-sarakkeessa valitsemaan kohdennukset menoille tai tuloille. **Merkkaukset** valitaan painamalla Kohdennus-sarakkeen päällä hiiren vasenta nappia. Eriteltävissä tasetileissä valitaan kohdennus-sarakkeessa tase-erä.
 
-!!! note "Tositesarjat"
-    Jos käytät eri tositesarjoja, voit valita tositesarja vapaasti.
+Harmaat rivit ovat arvonlisäveron nettokirjauksiin liittyivä automaattisia vero- ja vähennyskirjauksia, joita ei voi muokata itse.
 
-## Arvonlisäveron kirjaaminen
+!!! note "Kaikki viennin valinnat"
+    Tiliruudukolla et voi tehdä aivan kaikkia vientiin liittyviä valintoja, kuten menon jaksotus tai investoinnin poistoaika. Näitä valintoja pääset muokkaamaan **Muokkaa vientiä** -painikkeella.
 
-!!! danger "Suosi Meno- ja tulotositetta"
-    Meno- ja tulotositteen omiin tositetyypeihin sisältyy paljon sellaista automaatiota, jota ei ole käytettävissä kirjattaessa käsin tositetyypille Muu. Pyri kirjaamaan arvonlisäverolliset viennit meno- ja tulotositteina.
+### Tase-erät
+Moneen tasetiliin liittyvä **tase-erä** tarkoittaa tase-erittelyssä olevaa seurattavaa erää.
 
-Arvonlisäveron tietoja pääset muokkaamaan napsauttamalla Alv-saraketta, josta avautuu valintaikkuna. Tehtäessä arvonlisäverollisia kirjauksia pitää vientiin määritellä aina oikeat arvonlisäveron ohjaustiedot.
+- **Uusi tase-erä** tarkoittaa, että tosite aloittaa uuden seurattavan erän (esimerkiksi uusi lasku tai erittelyyn lisättävä omaisuus)
+- **Ei tase-erää** tarkoittaa, ettei tämä vienti muodosta seurattavaa erää, vaan seuranta tehdään vain tilin saldon osalta
+- Valitsemalla tase-erän liität viennin olemassa olevaan tase-erään. Esimerkiksi laskun maksu tai hyvityslasku liitetään laskun luomiseen, velan lyhennys velkaan jne.
+
+## Kirjaaminen vientiä muokkaamalla
+
+**Uusi vienti** -painikeella luot viennin käyttämällä valintataulua, jossa voit määritellä kaikki viennin tiedot. Vastaavasti pääset muokkaamaan kaikkia tietoja **Muokkaa vientiä**-painikkeella.
+
+![](muokkaavientia.png)
+
+Valintataulussa näytettävät valinnat riippuvat valitsemasi tilin tyypistä. **Kumppani** tarkoittaa tässä liiketoimen toista osapuolta (asiakasta, toimittajaa, maksun saajaa tai maksajaa).
+
+### Arvonlisävero
+
+Tavallisesti kirjakset tehdään valinnalla **Veron peruste** jolloin voit valinnoilla **Kirjaa myös vero** ja/tai **Kirjaa myös vähennys** valita, lisääkö ohjelma automaattisesti myös nettokirjauksiin liittyvät vero- ja vähennysviennit. Valinnalla **Sis. alv** voit syöttää kohtaan **Määrä** verollisen määrän.
 
 Katso tarkemmin luvusta [Arvonlisävero](/alv) eri arvonlisäveron kirjaustyypit.
 
-![](alvvalinta.png)
+Joissain hyvin harvinaisissa tapauksissa saattaa olla tarpeellista tehdä arvonlisäveron kirjaus täysin käsin (esimerkiksi jos yritykseltä laskutetaan pakettiauton kolarikorjauksesta omavastuun lisäksi korjaushinnan täysi arvonlisävero). Ole näissä tapauksissa erityisen huolellinen!
 
-Kotimaan arvonlisäverot kirjataan myyntien osalta seuraavasti
-
-Verolaji |  Kirjaamisohje
---------------|---------------------
-Verollinen myynti (netto)  | Myynti-tilille kirjataan veroton määrä alv-tiedolla *Veronalainen määrä* ja *Verokanta*. Alv-velkatilille kirjataan veron osuus alv-tiedolla *Veron määrä* ja *Verokanta*
-Verollinen myynti (brutto) | Koko bruttohinta kirjataan myynti-tilille alv-tiedolla *Veronalainen määrä* ja *Verokanta*. Vero erotellaan tästä kirjauksesta alv-ilmoituksen yhteydessä.
-Verollinen myynti (maksuperusteinen alv) | Myynti-tilille kirjataan veroton määrä alv-tiedoilla *Veronalainen määrä* ja *Verokanta*. Maksuperusteisen alv-velan tilille kirjataan alv:n määrä tiedoilla *Kohdentamaton maksuperusteinen alv* ja *Verokanta*.
-
-Kotimaan ostot kirjataan vastaavasti verolajeille Verollinen osto (netto, brutto tai maksuperusteinen alv).
-
-Muut arvonlisäverot kirjataan aina nettoperusteisesti niin, että alv-tiedolla *Veronalainen määrä* merkitään veron peruste ja alv-tiedolla *Veron määrä* maksettava vero ja vastaavasti *Vähennettävä määrä* alv-vähennykset määrä.
+- **Veron peruste** on veroton määrä, jonka perusteella arvonlisävero määräytyy
+- **Veron määrä** on arvonlisäverovelkaan tiliöitävä arvonlisäveron osuus
+- **Vähennyksen määrä** on arvonlisäverosaataviin tiliöitävä vähennettävän arvonlisäveron osuus
+- **Kohdentamaton maksuperusteinen alv** on maksuperusteista arvonlisäveroa tai ennakkolaskua käytettäessä tehtävä veron määrää ja vähennyksen määrää vastaava valinta. Kun lasku aikanaan maksetaan, siirretään kyseinen määrä veroksi tai vähennykseksi.
 
 ## Muistiotositteet
 

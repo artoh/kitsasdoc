@@ -22,7 +22,8 @@ Lisäämme sähläreille logon ja yhteystiedot, muokkaamme tilikarttaa ja lisä�
 #### Tilinavaus
 <iframe width="840" height="472" src="https://www.youtube.com/embed/7PJTKbHzWbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Teemme tilinavauksen edellisen tilikauden tilinpäätöksen perusteella.
+Teemme tilinavauksen edellisen tilikauden tilinpäätöksen perusteella.   
+Huom! Videosta poiketen menot kirjataan tilinavaukseen miinusmerkkisinä!
 
 ### Kirjaaminen
 

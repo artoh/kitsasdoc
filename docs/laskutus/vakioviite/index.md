@@ -2,11 +2,11 @@
 
 ![](viitelista.png)
 
-Voi määritellä vakioviitteitä, joilla saapuvat maksut tiliöidään automaattisesti kun ohjelmaan tuodaan tiliote csv- tai pdf-tiedostona.
+Voit määritellä vakioviitteitä, joilla saapuvat maksut tiliöidään automaattisesti, kun ohjelmaan tuodaan tiliote csv- tai pdf-tiedostona.
 
-Koska näistä maksuista ei laadita varsinaista laskua, soveltuu toiminto lähinnä yhdistyksille arvonlisäverottomien maksujen vastaanottoon.
+Koska näistä maksuista ei laadita varsinaista laskua, soveltuu toiminto lähinnä yhdistyksille arvonlisäverottomien maksujen vastaan ottamiseen.
 
-Yllä olevassa esimerkissä sählyleirille osallistuvia voidaan kehooittaa maksamaan leirimaksunsa viittellä **1025**. Maksujen valvonta hoidetaan maksajan nimen perusteella.
+Yllä olevassa esimerkissä sählyleirille osallistuvia voidaan kehoittaa maksamaan leirimaksunsa viittellä **1025**. Maksujen valvonta hoidetaan maksajan nimen perusteella.
 
 Jos yhdistyksellä on rahankeräyslupa, voidaan lahjoittajille ilmoittaa vakioviite ja toimintoa käyttää lahjoitustulojen tiliöintiin.
 

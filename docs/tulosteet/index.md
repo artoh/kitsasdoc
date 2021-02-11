@@ -77,7 +77,7 @@ Voit tulostaa laskuluettelon myyntilaskuista (Kitupiikillä laaditut laskut) tai
 
 ![Myyntiraportti](myyntiraportti.png)
 
-Myyntiraportissa luetellaan Kitupiikin myyntilaskutuksella laskutetut tuotteet, niiden määrä, keskimääräinen kappalehinta ja myynti yhteensä.
+Myyntiraportissa luetellaan Kitsaan myyntilaskutuksella laskutetut tuotteet, niiden määrä, keskimääräinen kappalehinta ja myynti yhteensä.
 
 ## Arvonlisäveron erittely
 

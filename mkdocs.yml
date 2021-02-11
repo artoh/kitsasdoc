@@ -3,7 +3,7 @@ site_description: 'Ystävällinen kirjanpitäjä'
 site_author: 'Arto Hyvättinen'
 site_url: 'https://ohjeet.kitsas.fi'
 
-copyright: 'Copyright &copy; 2017-2020 Arto Hyvättinen ja Kitsas Oy'
+copyright: 'Copyright &copy; 2017-2021 Arto Hyvättinen ja Kitsas Oy'
 theme:
   name: null
   custom_dir: material
@@ -55,6 +55,7 @@ pages:
     - Palkka : 'kirjaus/palkka/index.md'
     - Tuonti: 'kirjaus/tuonti/index.md'
     - Muut tositteet: 'kirjaus/muu/index.md'
+    - Mallipohjat: 'kirjaus/mallipohja/index.md'
   - Selaaminen ja etsiminen: 'selaus/index.md'
   - Kierto:
     - Kierto: 'kierto/kierto/index.md'

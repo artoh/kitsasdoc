@@ -6,7 +6,7 @@ Määrittelee uusien laskujen oletusvalinnat
 * **Käteistili**: tili, jos maksu kirjataan käteislaskuna (yleensä Käteisvarat)
 * **Maksumuistutustili**: tili, jolle kirjataan maksumuistutusten muistutusmaksut
 * **Viivästyskorkotili**: tili, jolle kirjataan maksumuistutusten viivästyskorot
-* **Maksuaika** eräpäivän määrittelemiseen
+* **Maksuaika** eräpäivän määrittelemiseen. **Vähimmäismaksuaika** tarkoittaa, että kun lasku lähetetään, varmistetaan että laskulla on vähintään määritelty maksuaika (eli käyttäjä ei voi määritellä maksuaikaa tätä lyhyemmäksi). Viikonloppuun tai kiinteälle pyhäpäivälle (uudenvuodenpäivä, loppiainen, vapunpäivä, itsenäisyyspäivä, jouluaatto, joulupäivä ja tapaninpäivä) osuva eräpäivä siirretään seuraavalle päivälle.
 * Laskulle tulostettava **huomautusaika**
 * **Peruskorko**, jonka perusteella viivästyskorko määritellään. [Suomen Pankki](https://www.suomenpankki.fi/fi/Tilastot/korot/kuviot/korot_kuviot/viitekorko_chrt_fi/) julkaisee koron puolen vuoden jaksoille.
 * **Ensimmäisen laskun numero** on numero, josta laskujen numerointi aloitetaan
