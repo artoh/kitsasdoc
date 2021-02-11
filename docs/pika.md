@@ -17,7 +17,7 @@ Näppäin   |  Toiminto
 <kbd>Ctrl</kbd>+<kbd>6</kbd> | Tilikaudet
 <kbd>Ctrl</kbd>+<kbd>7</kbd> | Arvonlisävero
 <kbd>Ctrl</kbd>+<kbd>8</kbd> | Määritykset
-<kbd>F8</kbd> | Kirjaa [kirjattavien kansion](/maaritykset/inbox) ensimmäinen tosite <span class=ver>1.3<span class=selite>Kitupiikin versiosta 1.3 lähtien</span></span>
+<kbd>F8</kbd> | Kirjaa [kirjattavien kansion](/maaritykset/inbox) ensimmäinen tosite
 <kbd>Ctrl</kbd>+<kbd>G</kdb> | Siirry tositteeseen tositenumerolla
 
 ## Tositteen kirjaamisessa
@@ -28,6 +28,7 @@ Näppäin   |  Toiminto
 <kbd>Ctrl</kbd>+<kbd>O</kdb> | Lisää liite
 <kbd>Ctrl</kbd>+<kbd>P</kdb> | Tulosta tosite
 <kbd>Ctrl</kbd>+<kbd>T</kdb> | Uusi tosite tämän tositteen pohjalta
+<kbd>Ctrl</kbd>+<kbd>H</kdb> | Asettaa tai poistaa huomiomerkin
 
 ## Laskua luotaessa
 Näppäin   |  Toiminto

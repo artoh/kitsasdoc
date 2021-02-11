@@ -13,6 +13,8 @@
 
 ## Tositetyypit
 
+Tositetyyppi määrittelee, millaisella näkymällä syötät tositteen tiedot Kitsaaseen.
+
 Tyyppi    | Käyttötarkoitus
 ----------|-----------------------
 Meno      | Ostolaskut ja muut menotositteet. Myös ostojen hyvityslaskut.
@@ -26,19 +28,33 @@ Liitetieto | Liitetietoja varmentava tosite, tositteella ei voi olla kirjauksia
 Muu       | Tosite, jossa kirjaukset tehdään tileittäin tiliruudukolle. Tarvitaan joskus monimutkaisemmissa kirjauksissa.
 
 
-## Tositteen kommentit
+## Muistiinpanot
+
+![](muistiinpanot.png)
+
+Muistiinpanot-välilehdelle kirjoitetaan tarkemmat tiedot tositteesta. Hankinnasta voidaan esimerkiksi kertoa, mitä varten se on tehty ja mihin päätökseen se perustuu (esim. yhdistyksessä viittaus hallituksen pöytäkirjaan).
+
+Muistiotositteessa selitys voidaan kirjoittaa Muistiinpanot-välilehdelle.
+
+## Kommentit
+
+!!! note "Vain pilvessä"
 
 ![](kommentti.png)
 
-Kommentit-välilehdelle kirjoitetaan tarkemmat tiedot tositteesta. Hankinnasta voidaan esimerkiksi kertoa, mitä varten se on tehty ja mihin päätökseen se perustuu (esim. yhdistyksessä viittaus hallituksen pöytäkirjaan).
+Kommentit-välilehdellä voidaan kirjoittaa tarkempaa tietoa tositteesta tai sen käsittelystä. Kommentteja voi lisätä vielä tilikauden lukitsemisen jälkeenkin.
 
-Muistiotositteessa selitys voidaan kirjoittaa Kommentti-välilehdelle.
+## Huomiomerkki
+
+Alalaidan ![!](huomiomerkki.png)-kuvakkeella voit asettaa tosittelle huomiomerkin. Huomiomerkki poistuu napsauttamalla kuvaketta uudelleen.
+
+Voit käyttää merkkiä muistuttamaan, että tositteelle pitää tehdä vielä jotain (esimerkiksi tositteen tiliöinti pitää tarkastaa tai tositteesta puuttuu liite). Selausnäkymässä saat helposti poimittua ne tositteet, jotka on merkitty huomiomerkillä.
 
 ## Liitteet
 
 ![](liitteet.png)
 
-Tositteeseen voi liittää pdf- tai jpg-tiedostoja.
+Tositteeseen voi liittää pdf- tai jpeg-tiedostoja.
 
 Ensimmäisen liitteen (sähköinen tosite) voit liittää suoraan **Sähköinen tosite**-kohdassa raahaamalla tiedoston tai **Valitse tiedosto**-napista.
 

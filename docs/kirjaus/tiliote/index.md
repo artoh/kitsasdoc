@@ -26,10 +26,6 @@ Tililtä          | Meno             | Meno (esimerkiksi pankin palvelumaksu tai
 Tililtä          | Siirto           | Rahoitustapahtuma (esim. lainan maksu tai siirtovelan kirjaaminen maksetuksi)
 
 Huomaa, että **päivämääräksi** merkitään aina yksittäisen tapahtuman kirjauspäivä. Voit jaksottaa tuloja ja menoja samalla tavalla, kun meno- ja tulotositteissa.
-
-!!! note "Vain arvonlisäverottomia kirjauksia"
-    Voit kirjata tiliotteelta sellaisia tuloja ja menoja, joista tiliotteen tiedot antavat riittävät tiedot. Koska arvonlisäverollisista kirjauksista vaaditaan tositteella arvonlisäveroon liittyvät merkinnät, pitää ne kirjata aina käyttämällä Meno- tai Tulo-tositetyyppiä.
-
 ![](laskunmaksu.png)
 
 Laskujen välilehdellä on luettelo avoimista maksuista. Valitse maksettu lasku ja päivämäärä, jolloin lasku maksettiin. **Kirjaa**-painike kirjaa tapahtuman taustalle jääneeseen tilioteikkunaan, joten voit jatkaa seuraavan tilitapahtuman kirjaamista.

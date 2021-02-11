@@ -8,8 +8,8 @@ Tilikauden aikana lasku- ja maksuperusteisesti tehdyt kirjaukset on oikaistava e
     Esimerkiksi sähkö tms. laskuja, joiden laskutuskausi ulottuu tilikauden vaihteen ylitse, ei yleensä jaksoteta.
 
 
-!!! note "Oikeus maksuperusteiseen tilinpäätökseen"
-    Mikrokokoinen yhdistys saa laatia tilinpäätöksen maksuperusteisesti, mutta silloin sen on annettava ylimääräisiä liitetietoja. Samoin maksuperusteisen tilinpäätöksen saa laatia sellainen ammatin- ja elinkeinonharjoittaja, jolla ei ole velvollisuutta tilinpäätöksen laatimiseen.
+!!! note "Vain arvonlisäverottomia eriä"  
+    Automaattinen jaksotustoiminto jaksottaa vain verottoman osuuden myynnistä tai ostosta, ei arvonlisäveron osuutta.
 
 Kirjanpidon jaksotukset tehdään siirtovelat ja siirtosaamiset -kirjanpitotileillä.
 

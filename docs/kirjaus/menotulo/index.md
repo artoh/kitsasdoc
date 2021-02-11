@@ -68,6 +68,8 @@ Verollisessa kirjauksessa voit syöttää kokonaismäärän (brutto) tai verotto
 
 Jaksotuksella voit tehdä kirjauksia, jotka kuuluu jaksottaa tilinpäätöksen yhteydessä tilikaudelta toiselle. Jaksotuskirjaukset tehdään vasta tilinpäätöksen yhteydessä, joten niitä ei ole huomioitu kesken tilikauden tulostettavassa tuloslaskelmassa tai taseessa.
 
+Jaksotustoiminnolla jaksotetaan vain veroton tulo tai meno, ei arvonlisäveron osuutta.
+
 !!! note "Esimerkkitilanteita, kun tilikausi on kalenterivuosi"
     - Jäsen maksaa vuoden 2020 jäsenmaksun 10.11.2019.
     - Yhdistykselle on myönnetty avustusta 1.11.2019 järjestettyyn tapahtumaan. Avustus maksetaan 7.1.2020.

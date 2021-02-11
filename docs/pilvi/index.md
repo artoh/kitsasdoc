@@ -4,7 +4,7 @@ Kitsas Oy tarjoaa ohjelmaan liittyviä pilvipalveluita. Palveluista ja hinnottel
 
 ![Kitsaan hinnasto](hinnat.svg)
 
-Palvelussa voit tallentaa kirjanpitosi Kitsas Oy:n Suomessa sijaitsevalle, automaattisesti varmuuskopioitavalle palvelimelle. Pilvessä olevalla kirjanpidolla voi olla useita samanaikaisia käyttäjiä. Saat käyttöösi myös Finvoice-verkkolaskut, kuvatiedostojen tekstintunnistuksen ja tukipalvelut.
+Palvelussa voit tallentaa kirjanpitosi Kitsas Oy:n Suomessa sijaitsevalle, automaattisesti varmuuskopioitavalle palvelimelle. Pilvessä olevalla kirjanpidolla voi olla useita samanaikaisia käyttäjiä. Saat käyttöösi myös Finvoice-verkkolaskut, kuvatiedostojen tekstintunnistuksen ja tukipalvelut sekä [laskutusportaalin](/kierto/portaali) ja rajoitetun [Web-liittymän kirjanpitoosi](/webkitsas).
 
 Rekisteröityessäsi Kitsaan pilveen aloitat 30 päivän maksuttoman kokeilujakson, jonka aikana saat käyttää kaikkia vain tilaajille rajoitettuja palveluita sekä tallentaa yhden kirjanpitosi Kitsaan pilveen.
 
@@ -29,6 +29,22 @@ Kirjaudu **Pilvi**-välilehdellä syöttämällä sähköpostiosoitteesi ja sala
 
 Kirjauduttuasi saat luettelon pilvessä olevista kirjanpidoista, joihin sinulla on käyttöoikeus.
 
+## Kirjanpidon kopioiminen pilveen
+
+Siirtääksesi omalla koneellasi olevan kirjanpidon pilvitallennukseen
+
+1. Kirjaudu **Pilvi**-välilehdellä omalla tunnuksellasi
+2. Avaa **Tietokone**-välilehdeltä tietokoneellasi oleva kirjanpito
+3. Paina **Pilvi**-välilehdellä olevaa **Kopioi kirjanpito pilveen** -nappia
+
+Kirjanpitosi kopioidaan pilveen. Kun käytät pilveen tallennettua kirjanpitoa, näet ![pilvi](pilvikuvake.png)-kuvakkeen aloitussivulla tilikauden valinnan vasemmalla puolella.
+
+!!! note "Paikallinen kirjanpitosi säilyy muuttumattomana"
+    Jos jatkossa muokkaat omalla koneellasi olevaa kirjanpitotiedostoa, eivät sen muutokset vaikuta pilvessä olevaan kirjanpitoon (eivätkä pilvessä olevan kirjanpidon muutokset paikalliseen tiedostoon). Otettuasi käyttöön pilvikirjanpidon älä siis enää muokkaa omalle koneelle jäänyttä kirjanpitoasi.
+
+    Pilvikirjanpitoa ei voi ladata omalle tietokoneelle muuten kuin kirjanpitoarkistona.
+
+
 ## Tilauksen tekeminen
 
 Myös tilaukset tehdään suoraan Kitsas-ohjelman **Pilvi**-välilehdeltä.
@@ -45,4 +61,4 @@ Voit tilata suoraan ohjelmasta myös tarvitsemasi lisäkirjanpidot. Lisätietoja
 Voit [kirjanpidon asetuksissa](../maaritykset/kayttooikeudet/) antaa toisille käyttäjille oikeuden kirjanpitoon, jonka omistaja olet.
 
 !!! tip "Maksuttomat lisäkäyttäjät"
-    Vaikka sinulla olisi maksullinen tilaus, voit antaa käyttöoikeuksia myös ilmaiskäyttäjille. Myös ilmaiskäyttäjät saavat pilvessä olevan kirjanpidon osalta käyttää muuten maksullisia lisäpalveluita kuten verkkolaskujen muodostamista.
+    Kun sinulla olisi maksullinen tilaus, voit antaa käyttöoikeuksia myös ilmaiskäyttäjille. Myös ilmaiskäyttäjät saavat pilvessä olevan kirjanpidon osalta käyttää muuten maksullisia lisäpalveluita kuten verkkolaskujen muodostamista.

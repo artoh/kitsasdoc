@@ -6,6 +6,8 @@ Palkka-tositetyypillä voit kirjata yksinkertaisia palkkatositteita. Toiminto on
 
 Monimutkaisemmat palkkakirjaukset, joissa on esim. eriteltynä johdon palkkoja tai palkkoja kohdennettuina kustannuspaikoille, joudut tekemään kirjaukset käsin Muu-tositetyypillä.
 
+Palkkojen kirjaustilejä pääsee valitsemaan Asetusten kohdasta [Palkkakirjaustilit](/maaritykset/palkkatilit/)
+
 ## Palkkakirjaukset palkka.fi-palvelun aineistolla
 
 ### Palkka

@@ -82,7 +82,8 @@ pages:
     - Maksuperusteinen alv: 'alv/maksuperusteinen/index.md'
   - Tilikaudet ja tilinpäätös:
     - Tilikaudet : 'tilikaudet/index.md'
-    - Sähköinen arkisto: 'tilikaudet/arkisto/index.md'
+    - Kirjanpitoaineisto: 'tilikaudet/aineisto/index.md'    
+    - Sähköinen arkisto: 'tilikaudet/arkisto/index.md'    
     - Budjetti: 'tilikaudet/budjetti/index.md'
     - Tilinpäätös:
         - Aloittaminen: 'tilinpaatos/aloittaminen/index.md'
@@ -112,6 +113,7 @@ pages:
     - Raportit: 'maaritykset/raportit/index.md'
     - Tilinpäätöksen malli: 'maaritykset/tilinpaatos/index.md'
     - Tilikartan päivitys: 'maaritykset/paivitys/index.md'
+  - WebKitsas: 'webkitsas/index.md'
   - Tuki: 'tuki.md'
   - Lisenssi: 'lisenssi.md'
 extra_css:

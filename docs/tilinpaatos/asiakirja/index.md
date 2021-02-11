@@ -34,16 +34,9 @@ Jos valitset **Aloita uudelleen**, pääset tekemään uudestaan tilinpäätöks
 
 ![](tuloste.png)
 
-## Kirjanpitoaineisto
-
-!!! bug ""
-    Windowsilla sähköisten tositteiden sisällyttämisessä kirjanpitoaineistoon esiintyy jos puutteita.
-
-Kitsas kokoaa koko sähköisessä muodossa olevan kirjanpitoaineiston (tilipäätöstä lukuun ottamatta) yhteen pdf-tiedostoon, joka avautuu **Kirjanpitoaineisto**-painikkeesta.
 
 !!! note "Kirjanpidon säilyttäminen"
-    Tilinpäätöstä ja kirjanpitoaineistoa on säilytettävä 10 vuotta tilikauden päättymisvuoden lopusta. Tositteita on säilytettävä kuusi vuotta. Kirjanpidon säilyttämisessä [sähköinen arkisto](/tilikaudet/arkisto) on ensisijainen vaihtoehto, koska se säilyttää
-    kirjausketjun sekä kirjanpidon muokkaushistorian.
+    Tilinpäätöstä ja kirjanpitoaineistoa on säilytettävä 10 vuotta tilikauden päättymisvuoden lopusta. Tositteita on säilytettävä kuusi vuotta. 
 
 
 ## Tilinpäätöksen vahvistaminen

@@ -9,12 +9,15 @@
 - **Tositteet** -välilehdellä näet kirjanpitoon tallennetut tositteet
 - **Luonnokset** -välilehdellä ovat luonnoksina tallennetut tositteet
 - **Viennit** -välilehdellä voit selata kirjanpidon vientejä
+- **Poistetut** -välilehdellä voit selata poistettuja tositteita, joita voi myös palauttaa takaisin kirjanpitoon
 - **Saapuneet** -välilehdellä ovat paikalliseen kirjanpitoon noudetut verkkolaskut
 
 
 Rajaa selattavien tositteiden aikaväli ja halutessasi tositetyyppi.
 
 **Etsi**-valinta suodattaa näytöllä olevista tositteista ne, joiden otsikossa on etsittävä teksti.
+
+![!](/kirjaus/huomiomerkki.png)-kuvakkeella selaat vain [huomiomerkillä](/kirjaus/#huomiomerkki) merkitsemiäsi tositteita. ![](kuukausi.png) -painikkeella valitset kuukauden ja ![](tilikausi.png) -painikkeella kuukauden selausjakson.
 
 Napsauttamalla riviä pääset katsomaan tai muokkaamaan valittua tositetta.
 

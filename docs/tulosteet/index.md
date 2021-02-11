@@ -83,6 +83,10 @@ Myyntiraportissa luetellaan Kitsaan myyntilaskutuksella laskutetut tuotteet, nii
 
 Voit tulostaa [arvonlisäverolaskelman erittelyn](/alv/tilitys/#arvonlisaveron-erittely) myös kesken verokauden.
 
+## Tositekooste
+
+Tositekoosteella voit tulostaa sähköisessä muodossa olevia tositteita halutulla ajanjakso-, tili- ja kohdennusrajauksella. Toiminta on suunniteltu tilanteisiin, joissa yhdistyksen pitää toimittaa kaikki tiettyyn avustuskohteeseen liittyvät tositteet avustuksen myöntäjälle.
+
 ## Muut raportit
 
 Tilikarttaan voi kuulua muitakin raportteja, kuten tulojen ja menojen kohdennusraportit.

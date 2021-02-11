@@ -33,6 +33,7 @@ Jos poistat käyttäjältä kaikki oikeudet, ei käyttäjää enää näytetä l
 Käyttöoikeus    |  Merkitys
 ----------------|-----------------------------------------
 Selaaminen      | Tositelistauksien selaaminen ja tositteen katsominen
+Kommentointi    | Kommenttien lisääminen tositteeseen
 Luonnoksen laatiminen | Tositteen tallentaminen Luonnos-tilaan, luonnoksen poistaminen
 Tallentaminen ja muokkaaminen | Tositteen tallentaminen Kirjanpidossa tilaan, tositteen muokkaaminen ja poistaminen
 

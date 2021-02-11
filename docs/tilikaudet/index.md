@@ -16,16 +16,12 @@ Tilikauden pituus on yleensä 12 kuukautta - poikkeuksellinen, enintään 18 kuu
 
 ![](muokkaa.png)
 
-**Muokkaa**-painikkeella voit muuttaa _viimeisen_ tilikauden päättymispäivää tai poistaa viimeisen tilikauden, jos sillä ei ole yhtään kirjausta. Tilikauden päättymistä ei saa muuttaa aikaisemmaksi kuin tilikauden viimeinen kirjaus.
+**Muokkaa**-painikkeella pääset muokkaamaan tilikausia.
 
-Voit tarvittaessa myös **perua tilikauden lukitsemisen**. Toiminto on tarkoitettu käytettäväksi vain, jos tilinpäätöstä laadittaessa on vielä tarpeen palata tekemään kirjauksia.
+!!! danger "Tilikausista pitää muodostua kokonaisuus"
+    Tilikausien muokkaamisen tuoksena osa tositteista voi jäädä kokonaan tilikausien ulkopuolelle, jolloin ne voivat jäädä näkymättömiksi. Lisäksi tositteiden numerointi tulla sillä tavoin virheelliseksi, että kahdella tositteella on sama numero. Toiminto on tarkoitettu lähinnä erilaisten virhetilanteiden korjaamiseksi (esimerkiksi kirjanpito aloitettaessa on syötetty tilikaudet väärin tai unohdettu valita tilinavaus) ja sitä on käytettävä erityisellä varovaisuudella!
+
+Voit tarvittaessa myös avata lukitun tilikauden. Toiminto on tarkoitettu käytettäväksi vain, jos tilinpäätöstä laadittaessa on vielä tarpeen palata tekemään kirjauksia. Kun tilikausi avataan, puretaan myös mahdollinen tilinpäätöksen vahvistaminen ja tilinpäätös on jälleen muokattavissa.
 
 !!! quote "Kirjanpitolaki 2. luku 7 § 2. mom."
     Tositteen, kirjanpidon tai muun kirjanpitoaineiston sisältöä ei saa muuttaa tai poistaa tilinpäätöksen laatimisen jälkeen. Sisältöä ei saa muuttaa eikä poistaa myöskään sen jälkeen, kun 6 §:ssä tarkoitettu (kirjanpidosta viranomaiselle verotusta tai muuta tarkoitusta varten määräajoin tehtävä) ilmoitus on tehty tai kirjanpitovelvollinen on julkistanut tai antanut ulkopuolisen käyttöön aineistosta laatimansa välitilinpäätöksen tai muun vastaavan asiakirjan.
-
-## Kirjanpitoaineisto
-
-**Aineisto**-painikkeella muodostat kirjanpidostasi pdf-tiedoston, joka sisältää koko tilikauden koko kirjanpidon ja kaikki sähköisessä muodossa olevat tositteet (mutta ei tilinpäätöstä).
-
-!!! warning "Aineistoa ei voi muodostaa suuresta kirjanpidosta"
-    Kirjanpidosta, jossa on kovin isokokoisia sähköisiä tositteita tai kovin suuri määrä tositteita, ei välttämättä voi muodostaa aineistoa. Voit kuitenkin muodostaa kirjanpidosta [sähköisen arkiston](arkisto/)
