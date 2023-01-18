@@ -84,14 +84,6 @@
   {% endif %}
     <svg class="md-svg">
       <defs>
-        {% set platform = config.extra.repo_icon or config.repo_url %}
-        {% if "github" in platform %}
-          {% include "assets/images/icons/github.a4034fb1.svg" %}
-        {% elif "gitlab" in platform %}
-          {% include "assets/images/icons/gitlab.d80e5efc.svg" %}
-        {% elif "bitbucket" in platform %}
-          {% include "assets/images/icons/bitbucket.4ebea66e.svg" %}
-        {% endif %}
       </defs>
     </svg>
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
@@ -140,6 +132,15 @@
                 {% if page.edit_url %}
                   <a href="{{ page.edit_url }}" title="{{ lang.t('edit.link.title') }}" class="md-icon md-content__icon">&#xE3C9;</a>
                 {% endif %}
+                <div class="infolaatikko">
+                 <h3>Päivitä Kitsas uudempaan versioon!</h3>
+                 <p>Suosittelemme kaikille käyttäjien Kitsaan päivittämistä uudempaan versioon.<br>
+                 Uusi versio on ladattavissa maksutta ohjelman kotisivulta <a href="https://kitsas.fi">kitsas.fi</a></p>
+                 <h3>Älä lue näitä ohjeita!</h3>
+                 <p>Nämä ohjeet ovat Kitsaaan versioille 2.0 &ndash; 2.3, joita ei enää tueta<br>
+                 Ohjeet Kitsaan uudemmilla versiolle löytyvät osoitteesta <a href="https://kitsas.fi/docs">kitsas.fi</a></p>
+
+                </div>
                 {% if not "\x3ch1" in page.content %}
                   <h1>{{ page.title | default(config.site_name, true)}}</h1>
                 {% endif %}

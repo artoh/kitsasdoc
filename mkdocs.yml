@@ -1,4 +1,4 @@
-site_name: 'Kitsaan ohjeet'
+site_name: 'Kitsaan v2.0 &ndash; 2.3 ohjeet'
 site_description: 'Ystävällinen kirjanpitäjä'
 site_author: 'Arto Hyvättinen'
 site_url: 'https://ohjeet.kitsas.fi'
@@ -20,7 +20,6 @@ theme:
   extra_templates:
     '404.html'
 extra:
-  disqus: 'kitsaan-ohjeet'
   social:
     - type: 'github'
       link: 'https://github.com/artoh/kitupiikki'
@@ -38,7 +37,7 @@ markdown_extensions:
   - meta
   - toc:
         permalink: true
-pages:
+nav:
   - Kitsas: 'index.md'
   - Kirjanpidosta lyhyesti: 'kirjanpito/index.md'
   - Aloittaminen:
@@ -114,7 +113,6 @@ pages:
     - Tilinpäätöksen malli: 'maaritykset/tilinpaatos/index.md'
     - Tilikartan päivitys: 'maaritykset/paivitys/index.md'
   - WebKitsas: 'webkitsas/index.md'
-  - Tuki: 'tuki.md'
   - Lisenssi: 'lisenssi.md'
 extra_css:
   - 'stylesheets/extra.css'
